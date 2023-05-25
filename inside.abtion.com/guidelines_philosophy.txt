@@ -1,0 +1,24 @@
+Title: Abtion's guidelines philosophy
+
+Introduction:
+
+The guidelines are extracted from real problems we encountered and the solutions we have found along the way. These guidelines should be used as a default unless there is a good reason against it.
+
+Content:
+
+1. What is the purpose of the guidelines?
+2. How can I contribute to the guidelines?
+
+What is the purpose of the guidelines?
+
+The guidelines are a set of recommendations that ensure that the way we work is consistent across the organization. They are also a way for us to document past problems and share them with the rest of the team.
+
+How can I contribute to the guidelines?
+
+Anyone is welcome to contribute to the guidelines. If you have a suggestion for a new guideline, or if you have a suggestion for improving an existing guideline, please open a pull request.
+
+Anything added to the guideline must have been extracted from a project.
+
+Conclusion:
+
+The guidelines are a set of recommendations that ensure that the way we work is consistent across the organization. They are also a way for us to document past problems and share them with the rest of the team. Anyone is welcome to contribute to the guidelines. If you have a suggestion for a new guideline, or if you have a suggestion for improving an existing guideline, please open a pull request.

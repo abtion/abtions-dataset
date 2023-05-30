@@ -2,7 +2,8 @@ import os
 import json
 import openai
 from config import Config
-from gitignore_parser import parse_gitignore
+from ignore_filter import IgnoreFilter
+
 
 EMBEDDING_MODEL = "text-embedding-ada-002"
 
@@ -19,21 +20,16 @@ def call_openai_embedding_api(text):
     return response
 
 
-def is_ignored(path, matches):
-    return matches(path)
-
-
-def process_folder(folder_abs_path):
-    embedding_ignore_path = os.path.join(folder_abs_path, ".embedding_ignore")
-    if os.path.exists(embedding_ignore_path):
-        matches = parse_gitignore(embedding_ignore_path)
-    else:
-        matches = []
-
+def process_folder(folder_abs_path, ignore_filter):
     for root, dirs, files in os.walk(folder_abs_path):
         # Remove ignored directories
-        dirs[:] = [d for d in dirs if not is_ignored(os.path.join(root, d), matches)]
-        files[:] = [f for f in files if not is_ignored(os.path.join(root, f), matches)]
+        dirs[:] = [
+            d for d in dirs if not ignore_filter.is_ignored(os.path.join(root, d))
+        ]
+        # Remove ignored files
+        files[:] = [
+            f for f in files if not ignore_filter.is_ignored(os.path.join(root, f))
+        ]
 
         for file in files:
             if file.endswith(".md") or file.endswith(".txt"):
@@ -58,4 +54,9 @@ def process_folder(folder_abs_path):
 
 # Usage
 folder_abs_path = "."
-process_folder(folder_abs_path)
+
+# Load ignore filter
+embedding_ignore_path = os.path.join(folder_abs_path, ".embedding_ignore")
+ignore_filter = IgnoreFilter(embedding_ignore_path)
+
+process_folder(folder_abs_path, ignore_filter)

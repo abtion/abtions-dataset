@@ -1,19 +1,13 @@
 import os
 import json
-from dotenv import load_dotenv
 import openai
+from config import Config
 from gitignore_parser import parse_gitignore
 
-# Load environment variables from .env file
-load_dotenv()
-
-# OpenAI API credentials
-API_KEY = os.getenv("OPENAI_API_KEY")
+EMBEDDING_MODEL = "text-embedding-ada-002"
 
 # Set OpenAI API key
-openai.api_key = API_KEY
-
-EMBEDDING_MODEL = "text-embedding-ada-002"
+openai.api_key = Config.OPENAI_API_KEY
 
 
 # Function to call OpenAI Embedding API

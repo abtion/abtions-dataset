@@ -66,9 +66,7 @@ The script that generates the embeddings has already been executed, and as a res
 
 It's important to note that these embeddings are not static; they evolve as OpenAI trains the model or the documents change. Consequently, if the script is run again, it will regenerate the embeddings to reflect the changes brought about by further model training or document changes. This updated information will be stored in the same JSON files, ensuring that the embeddings remain current with the ongoing model development.
 
-The script uses Python's `os.walk` function. It looks through all directories, starting from the root and going into subdirectories, searching for any files that end with .txt or .md. At the same time, it uses a tool called parse-gitignore. This tool ensures the script skips any directories or files that are listed in a .gitignore file. This way, it only focuses on the files it's supposed to process, ignoring the rest.
-
-We should consider having a separate .gitignore specifically for the script's operations. This way, we could ignore additional files or directories during the script's run that aren't specified in the main .gitignore. However, this is not currently the case.
+The script uses Python's `os.walk` function. It looks through all directories, starting from the root and going into subdirectories, searching for any files that end with .txt or .md. At the same time, it uses a tool called parse-gitignore. This tool ensures the script skips any directories or files that are listed in a .embedding_ignore file. This way, it only focuses on the files it's supposed to process, ignoring the rest.
 
 Here's how to execute the script:
 

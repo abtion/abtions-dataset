@@ -58,6 +58,8 @@ Setting up the project can be accomplished in two ways, depending on your specif
 
 ## Text-embedding generation script
 
+**In most cases, you will not need to run this script.** The embeddings have already been generated and stored in the repository. However, if you have modified the documents and you wish to update the embeddings to reflect these changes, you can run the script to regenerate the embeddings.
+
 Our embeddings are produced utilizing OpenAI's `text-embedding-ada-v2` model. This model is powered to analyze and convert text data into meaningful embeddings, representing the nuanced semantic qualities of the content.
 
 The script that generates the embeddings has already been executed, and as a result, our repository is populated with JSON files that contain the initial embeddings. These JSON files were created adjacent to the corresponding text or markdown files.
@@ -68,11 +70,37 @@ It's important to note that these embeddings are not static; they evolve as Open
 
 The script uses Python's `os.walk` function. It looks through all directories, starting from the root and going into subdirectories, searching for any files that end with .txt or .md. At the same time, it uses a tool called parse-gitignore. This tool ensures the script skips any directories or files that are listed in a .embedding_ignore file. This way, it only focuses on the files it's supposed to process, ignoring the rest.
 
-Here's how to execute the script:
+Here are some examples of how to use the script:
+
+**1. Process a specific file:**
+
+If you have a specific file that you want to process, you can provide the path to that file as a command line argument to the script:
+
+```bash
+python generate_embeddings.py /path/to/your/file.txt
+```
+
+In this example, the script will read the contents of `file.txt`, create an embedding using the OpenAI API, and save that embedding to a JSON file with the same name (but with a `.json` extension).
+
+**2. Process all files in a specific directory:**
+
+If you have a directory of files that you want to process, you can provide the path to that directory as a command line argument:
+
+```bash
+python generate_embeddings.py /path/to/your/directory
+```
+
+In this example, the script will process all text and markdown files in the specified directory and its subdirectories, excluding files and directories specified in the `.embedding_ignore` file.
+
+**3. Process all files in the current directory:**
+
+If you want to process all files in the same directory as the script, you can run the script without any arguments:
 
 ```bash
 python generate_embeddings.py
 ```
+
+In this case, the script will process all text and markdown files in its current working directory and its subdirectories, excluding files and directories specified in the `.embedding_ignore` file.
 
 Successful execution of the script will result in the creation of JSON files containing the embeddings. These files will be created adjacent to the corresponding text or markdown files.
 

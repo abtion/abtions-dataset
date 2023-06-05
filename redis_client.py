@@ -14,4 +14,8 @@ class RedisClient(redis.Redis):
 
 if __name__ == "__main__":
     redis_client = RedisClient()
-    print(redis_client.ping())
+    try:
+        redis_client.ping()
+        print(f"Connected to {Config.REDIS_HOST}:{Config.REDIS_PORT}")
+    except redis.exceptions.ConnectionError as e:
+        print(e)

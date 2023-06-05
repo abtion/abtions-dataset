@@ -1,7 +1,7 @@
 # Abtion's Dataset Repository
 
 - [Abtion's Dataset Repository](#abtions-dataset-repository)
-  - [Purpose](#purpose)
+  - [Dataset Purpose](#dataset-purpose)
   - [Getting started](#getting-started)
   - [Working with the dataset](#working-with-the-dataset)
   - [Text-embedding generation script](#text-embedding-generation-script)
@@ -15,12 +15,11 @@
   - [Guidelines](#guidelines)
   - [Questions?](#questions)
 
-Welcome to Abtion's Dataset Repository! This is a centralized hub dedicated to the maintenance, enhancement, and exploration of the valuable datasets belonging to our organization. Here, you will find both text and markdown documents that capture and articulate various aspects of our organization. These files are intended for use in training text embedding models.
+Welcome to Abtion's Dataset repository! This centralized hub is dedicated to experimenting with document changes as part of our exploration into embeddings-based search. Our goal is to enhance and optimize document embeddings by including them in this dataset and storing their corresponding embeddings in Redis.
 
-## Purpose
+## Dataset Purpose
 
-The primary purpose of this repository is to enable and encourage collaboration across different teams in our organization. This not only helps in ensuring the quality of the dataset but also assists in capturing a wider array of perspectives and information about our organization. The repository serves as a consistent, dependable, and easy-to-access resource for our datasets, assisting us in our efforts to create meaningful and accurate text embeddings.
-
+The purpose of this dataset is to facilitate experimentation and research on document modifications. We aim to explore different changes to documents and evaluate their impact on the effectiveness of embeddings-based search. By including a variety of documents in this dataset, generating their embeddings, and storing them in Redis, we can conduct thorough experiments and analyze the results.
 
 ## Getting started
 

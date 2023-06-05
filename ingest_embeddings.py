@@ -6,10 +6,12 @@ import os
 import json
 import numpy as np
 from ignore_filter import IgnoreFilter
+import argparse
 
 # Define index name and document prefix
 INDEX_NAME = "index"
 DOC_PREFIX = "doc:"
+VECTOR_DIMENSIONS = 1536
 
 
 def delete_index():
@@ -64,7 +66,9 @@ def insert_embedding(pipe: redis.client.Pipeline, file_name: str):
 
     for extension in [".md", ".txt"]:
         try:
-            with open(os.path.join(file_dir, base_name + extension), "r") as f:
+            with open(
+                os.path.join(file_dir, base_name + extension), "r", encoding="utf8"
+            ) as f:
                 content = f.read()
                 break
         except FileNotFoundError:
@@ -83,34 +87,64 @@ def insert_embedding(pipe: redis.client.Pipeline, file_name: str):
         },
     )
 
+    print(f"Inserted {file_name}")
 
-# Create the index
-VECTOR_DIMENSIONS = 1536
 
-ignore_filter = IgnoreFilter(".embedding_ignore")
+def process_file(pipe, file_path, ignore_filter):
+    if file_path.endswith(".json") and not ignore_filter.is_ignored(file_path):
+        insert_embedding(pipe, file_path)
 
-with RedisClient() as r:
-    # Delete the index if it already exists
-    delete_index()
-    create_index(vector_dimensions=VECTOR_DIMENSIONS)
 
-    # Read the embedding files and insert them into Redis index
-    folder_path = "."
-
-    pipe = r.pipeline()
-    for root, dirs, files in os.walk(folder_path):
+def process_folder(pipe, folder_abs_path, ignore_filter):
+    for root, dirs, files in os.walk(folder_abs_path):
         # Remove ignored directories
         dirs[:] = [
             d for d in dirs if not ignore_filter.is_ignored(os.path.join(root, d))
         ]
-        # Remove ignored files
-        files[:] = [
-            f for f in files if not ignore_filter.is_ignored(os.path.join(root, f))
-        ]
 
         for file in files:
-            if file.endswith(".json"):
-                file_path = os.path.join(root, file)
-                insert_embedding(pipe, file_path)
+            file_path = os.path.join(root, file)
+            process_file(pipe, file_path, ignore_filter)
 
-    pipe.execute()
+
+# Argument Parser
+parser = argparse.ArgumentParser(
+    description="Insert embeddings for specific file or directory into Redis index"
+)
+parser.add_argument(
+    "path",
+    type=str,
+    nargs="?",
+    default=".",
+    help="The path to the specific file or directory",
+)
+parser.add_argument(
+    "--reset", action="store_true", help="Reset the index before inserting embeddings"
+)
+args = parser.parse_args()
+
+# Determine the directory of this script
+script_directory = os.path.dirname(os.path.realpath(__file__))
+
+# Load ignore filter
+embedding_ignore_path = os.path.join(script_directory, ".embedding_ignore")
+ignore_filter = IgnoreFilter(embedding_ignore_path)
+
+# Create the index
+with RedisClient() as r:
+    # Delete the index if the reset flag was provided
+    if args.reset:
+        delete_index()
+        create_index(vector_dimensions=VECTOR_DIMENSIONS)
+
+    # Check if path is a file or a directory
+    if os.path.isfile(args.path):
+        pipe = r.pipeline()
+        process_file(pipe, args.path, ignore_filter)
+        pipe.execute()
+    elif os.path.isdir(args.path):
+        pipe = r.pipeline()
+        process_folder(pipe, args.path, ignore_filter)
+        pipe.execute()
+    else:
+        print(f"{args.path} is not a valid file or directory.")

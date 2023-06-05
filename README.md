@@ -6,6 +6,10 @@
   - [Working with the dataset](#working-with-the-dataset)
   - [Text-embedding generation script](#text-embedding-generation-script)
   - [Redis database population script](#redis-database-population-script)
+    - [Running Without Arguments](#running-without-arguments)
+    - [Running With a Specific Directory](#running-with-a-specific-directory)
+    - [Running With a Specific File](#running-with-a-specific-file)
+    - [Example Usage](#example-usage)
     - [RedisInsight](#redisinsight)
   - [Contributions](#contributions)
   - [Guidelines](#guidelines)
@@ -106,10 +110,40 @@ Successful execution of the script will result in the creation of JSON files con
 
 ## Redis database population script
 
-The Redis database population script is responsible for loading the embeddings into the Redis database. The script will load the embeddings from the JSON files into the Redis database, ensuring that the database is populated with the latest embeddings.
+### Running Without Arguments
+
+By default, if you run the script without providing any arguments, it will process the current directory ('.'). The script will walk through all the files in this directory (and its subdirectories) and, for each '.json' file it finds, it will call the `insert_embedding` function to insert the file's data into the Redis database.
+
+### Running With a Specific Directory
+
+If you run the script with a specific directory as an argument, the script will process that directory instead of the current one. It will go through all the files in the specified directory (and its subdirectories), just as it does when run without any arguments.
+
+### Running With a Specific File
+
+The script can also be run with a specific file as an argument. When run in this mode, the script will only process that specific file. This feature is particularly useful when you have a large number of files and only need to update the Redis database with data from a single file.
+
+To use this feature, the file provided must be a '.json' file. The script will call the `insert_embedding` function for this file and insert its data into the Redis database.
+
+### Example Usage
+
+Here are some example usage scenarios for the enhanced function:
+
+- **Without any arguments**: Run the script in your terminal without providing any arguments.
 
 ```bash
 python ingest_embeddings.py
+```
+
+- **With a directory**: Provide the path to the directory as an argument when running the script.
+
+```bash
+python ingest_embeddings.py path/to/directory
+```
+
+- **With a file**: Provide the path to the file as an argument when running the script.
+
+```bash
+python ingest_embeddings.py path/to/file.json
 ```
 
 ### RedisInsight

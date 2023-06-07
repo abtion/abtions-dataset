@@ -111,7 +111,7 @@ Successful execution of the script will result in the creation of JSON files con
 
 ### Running Without Arguments
 
-By default, if you run the script without providing any arguments, it will process the current directory ('.'). The script will walk through all the files in this directory (and its subdirectories) and, for each '.json' file it finds, it will call the `insert_embedding` function to insert the file's data into the Redis database.
+By default, if you run the script without providing any arguments, it will process the current directory ('.'). The script will walk through all the files in this directory (and its subdirectories) and, for each '.json' file it finds, it will call the `ingest_embedding` function to ingest the file's data into the Redis database.
 
 ### Running With a Specific Directory
 
@@ -121,7 +121,7 @@ If you run the script with a specific directory as an argument, the script will 
 
 The script can also be run with a specific file as an argument. When run in this mode, the script will only process that specific file. This feature is particularly useful when you have a large number of files and only need to update the Redis database with data from a single file.
 
-To use this feature, the file provided must be a '.json' file. The script will call the `insert_embedding` function for this file and insert its data into the Redis database.
+To use this feature, the file provided must be a '.json' file. The script will call the `ingest_embedding` function for this file and ingest its data into the Redis database.
 
 ### Example Usage
 

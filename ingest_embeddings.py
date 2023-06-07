@@ -135,7 +135,8 @@ with RedisClient() as r:
     # Delete the index if the reset flag was provided
     if args.reset:
         delete_index()
-        create_index(vector_dimensions=VECTOR_DIMENSIONS)
+
+    create_index(vector_dimensions=VECTOR_DIMENSIONS)
 
     # Check if path is a file or a directory
     if os.path.isfile(args.path):

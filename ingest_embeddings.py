@@ -41,6 +41,7 @@ def create_index(vector_dimensions: int):
                     "DISTANCE_METRIC": "COSINE",  # Vector Search Distance Metric
                 },
             ),
+            TextField("filename"),
         )
 
         # index Definition

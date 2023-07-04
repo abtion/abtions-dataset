@@ -45,6 +45,7 @@ def create_index(vector_dimensions: int):
             ),
             TextField("link"),
             TextField("filename"),
+            TextField("category"),
         )
 
         # index Definition
@@ -55,7 +56,7 @@ def create_index(vector_dimensions: int):
 
 
 # Function to insert embeddings into Redis index
-def insert_embedding(pipe: redis.client.Pipeline, file_name: str):
+def insert_embedding(pipe: redis.client.Pipeline, file_name: str, category: str):
     # Load the JSON data from file
     with open(file_name, "r") as f:
         json_data = json.load(f)
@@ -91,7 +92,8 @@ def insert_embedding(pipe: redis.client.Pipeline, file_name: str):
             "vector": np.array(embedding).astype(np.float32).tobytes(),
             "tag": "openai",
             "link": get_link_from_yaml(yaml_file_path),
-            "filename": base_name
+            "filename": base_name,
+            "category": category
         },
     )
 
@@ -111,9 +113,13 @@ def get_link_from_yaml(file_path):
     return value
 
 
+def get_category_from_path(file_path: str):
+    return os.path.basename(os.path.dirname(os.path.normpath(file_path)))
+
 def process_file(pipe, file_path, ignore_filter):
     if file_path.endswith(".json") and not ignore_filter.is_ignored(file_path):
-        insert_embedding(pipe, file_path)
+        category = get_category_from_path(file_path)
+        insert_embedding(pipe, file_path, category)
 
 
 def process_folder(pipe, folder_abs_path, ignore_filter):

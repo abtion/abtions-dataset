@@ -7,6 +7,8 @@ import json
 import numpy as np
 from ignore_filter import IgnoreFilter
 import argparse
+import yaml
+
 
 # Define index name and document prefix
 INDEX_NAME = "index"
@@ -41,6 +43,7 @@ def create_index(vector_dimensions: int):
                     "DISTANCE_METRIC": "COSINE",  # Vector Search Distance Metric
                 },
             ),
+            TextField("link"),
             TextField("filename"),
         )
 
@@ -79,17 +82,33 @@ def insert_embedding(pipe: redis.client.Pipeline, file_name: str):
         print(f"No text file (.md or .txt) found for {file_name}")
         return
 
+    yaml_file_path = os.path.join(file_dir, base_name + ".yaml")
+
     pipe.hset(
         f"{DOC_PREFIX}{file_dir}/{base_name}",
         mapping={
             "content": content,
             "vector": np.array(embedding).astype(np.float32).tobytes(),
             "tag": "openai",
+            "link": get_link_from_yaml(yaml_file_path),
             "filename": base_name
         },
     )
 
     print(f"Inserted {file_name}")
+
+def get_link_from_yaml(file_path):
+    try:
+        # Open the file
+        with open(file_path, 'r') as file:
+            # Load the YAML data
+            data = yaml.safe_load(file)
+            # Get the value of the key 'link'
+            value = data.get('link')
+    except FileNotFoundError:
+        value = ""
+
+    return value
 
 
 def process_file(pipe, file_path, ignore_filter):

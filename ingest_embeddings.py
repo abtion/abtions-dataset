@@ -91,7 +91,7 @@ def insert_embedding(pipe: redis.client.Pipeline, file_name: str):
             "vector": np.array(embedding).astype(np.float32).tobytes(),
             "tag": "openai",
             "link": get_link_from_yaml(yaml_file_path),
-            "filename": base_name
+            "filename": base_name + extension
         },
     )
 

@@ -45,7 +45,7 @@ def create_index(vector_dimensions: int):
             ),
             TextField("link"),
             TextField("filename"),
-            TextField("category"),
+            TagField("category"),
         )
 
         # index Definition

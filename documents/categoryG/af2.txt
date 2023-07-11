@@ -1,0 +1,231 @@
+Langtidsbehandling af AFLI
+Ved paroksystisk og persisterende AFLI tilstræbes:
+frihed for symptomatisk AFLI med medicin og/eller lungeveneisolation
+tolerable anfald af AFLI med eller uden medicin/lungeveneisolation/DC-konvertering
+Ved permanent AFLI er behandlingsmålet frekvensregulering, som beskrevet nedenfor.
+Frekvenskontrollerende behandling 
+Efter den akutte fase bør den frekvenskontrollerende behandling fortsætte. Der stiles mod en hvilefrekvens <110/min, dog lavere hvis patientens symptomer indikerer behov for strammere frekvenskontrol eller for en anden behandlingsstrategi. Der findes følgende behandlingsmodaliteter:
+betablokkere
+non-dihydropyridin calciumantagonister
+digoxin
+amiodaron (i udvalgte tilfælde hos patienter med hjertesvigt)
+His-ablation og pacemaker behandling (HSE)
+Ved valg af præparat til medikamentel frekvenskontrol bør der tages hensyn til patientens aktivitetsniveau. Patienter med inaktiv livsstil er ofte velbehandlede med digoxin alene. Hos aktive patienter bør der foretrækkes betablokker eller non-dihydropyridin calciumantagonist. Hos en række patienter vil kombinationsbehandling af betablokker eller non-dihydropyridin calciumantagonist og digoxin være nødvendig.
+His-ablation og pacemakerimplantation
+Anvendes mhp. frekvenskontrol til udvalgte svært symptomatiske og behandlingsrefraktære ældre patienter, men også i tilfælde, hvor patienten trods gentagne lungeveneisolationer har svært symptomatiske og medikamentelt behandlingsrefraktære episoder med AFLI.  
+His-ablation bør ligeledes overvejes hos patienter med permanent AFLI, hjertesvigt (NYHA III eller IV) og biventrikulær pacemaker, som har biv-pace <90-95% på grund af overledt AFLI.
+Rytmekontrollerende behandling
+Rytmekontrol omfatter konvertering (medikamentel og/eller elektrisk), behandling med antiarytmika og lungeveneisolation (radiofrekvensablation (RFA) kryoablation eller ablation med pulserende højspænding (PFA). Hovedformålet er symptomreduktion. Nedenstående flowdiagram viser algoritmen for valg af farmakologisk eller non-farmakologisk rytmekontrolbehandling. 
+Figur 15.3: Flowdiagram til valg af ablation eller antiarytmika (i alfabetisk rækkefølge) til rytmekontrolbehandling
+alungeveneisolation er almindeligvis førstevalg hos patienter med takykardi-induceret kardiomyopati
+bamiodaron er ikke førstevalg hos mange patienter pga. udtalt ekstrakardial bivirkningsprofil
+ckun såfremt der ikke samtidig er hjertesvigt
+Konverterende behandling
+DC-konvertering: Mest effektive og anvendte metode til at afbryde AFLI og dermed at genoprette sinusrytme. Se Kapitel 16: Kardiovertering af atrieflimren/-flagren.
+Antiarytmika: Især effektive hos patienter med kort arytmivarighed (< 7 dage).
+klasse 1C antiarytmika (flecainid eller propafenon)
+vernakalant
+amiodaron (specielt patienter med hjertesvigt)
+Behandling med antiarytmika
+Antiarytmika gives til patienter med paroksystisk AFLI og til patienter med persisterende AFLI i forbindelse med DC-konvertering og i tiden efter konvertering mhp. at opretholde sinusrytme – se Afsnit 15.5.4 Farmaka til frekvens- og rytmekontrollerende behandling af AFLI. Bradyarytmi induceret af relevant antiarytmika, kan kræve pacemakerimplantation for at sikre mulighed for sufficient behandling af takyarytmi.
+betablokkere
+klasse 1C antiarytmika (flecainid eller propafenon)
+dronedaron
+amiodaron (specielt patienter med hjertesvigt)
+(sotalol)
+Lungeveneisolation
+Lungeveneisolation (RFA, cryo-ablation eller PFA) mhp. rytmekontrol udføres på HSE og tilbydes patienter, hvor rytmekontrollerende behandling med klasse 1C eller 3 antiarytmika ikke har været effektiv, eller hvor patienten ikke tolererer eller ønsker langvarig behandling med antiarytmika. Med nuværende behandlingsteknik opnås en succesrate (frihed for AFLI efter et år) på omkring 70-80% efter 1-2 procedurer hos patienter med paroksystisk AFLI. Effekten er betydeligt ringere hos patienter med persisterende AFLI.
+Behandlingen tilbydes derfor først og fremmest patienter med symptomatisk paroksystisk AFLI, som er <75 år, og i udvalgte tilfælde også til patienter med persisterende og langvarig persisterende AFLI.
+Hos yngre og ellers fuldstændig raske højsymptomatiske patienter kan lungeveneisolation anvendes uden forudgående forsøg med antiarytmika.
+Permanent AFLI, dilatation af ve. atrium (>50 mm), alder >75-80 år og betydelig (kardiel) komorbiditet taler som regel imod lungeveneisolation.
+Lungeveneisolation er almindeligvis førstevalg hos patienter med takykardi-induceret kardiomyopati mhp. bedring af venstre ventrikelfunktion, uanset symptomstatus.
+Patienterne kontrolleres 3-12 mdr. efter lungeveneisolation på ablationscenter eller i AFLI-klinik. Ved tegn til SR uden rytmeregulerende medicin kan patienten afsluttes med besked om at henvende sig til primærsektoren ved symptomer. Ved recidiv af symptomer udføres EKG/holter/eventrecorder mhp. diagnosticering af, hvilken arytmi det drejer sig om. Ved recidiv af AFLI eller AFLA overvejes medicinsk eller elektrisk kardiovertering, samt vurdering af videre behandlingsstrategi, herunder evt. re-ablation
+Patienter med hjertesvigt og atrieflimren
+Yngre patienter med hjertesvigt, nedsat LVEF, og tilbagevendende symptomatisk AFLI under optimal hjertesvigt behandling bør tilbydes rytmekontrollerende strategi i form af kateterablation. Hos disse patienter er symptomlindring den afgørende behandlingsgevinst.
+Før henvisning bør følgende vurderes:
+Paroksystisk AFLI:
+symptomkorrelation bør dokumenteres med EKG-monitorering
+Persisterende AFLI:
+der bør påvises symptombedring og/eller betydende forbedring af LVEF ved opnåelse af sinusrytme med DC-konvertering og/eller amiodaron
+AK-behandling: Se Afsnit 15.5.2: Specielle situationer ved AK-behandling.
+Pacemakerbehandling ved AFLI
+Ved paroksystisk AFLI med takykardi-bradykardi syndrom implanteres DDDR-pacemaker, og ved permanent AFLI med betydende pauser implanteres VVIR-pacemaker.
+De samme pacemakertyper anvendes i forbindelse med His-ablation eller som underlag for medikamentel behandling, der medfører betydelig bradykardi. Biventrikulær pacing anbefales til patienter med systolisk LV-funktion ≤ 40%, og forventet høj paceafhængighed. Se Kapitel 5: Kronisk hjerteinsufficiens, Afsnit 5.5 Behandling og Kapitel 19: Pacemakerbehandling.
+Kirurgisk behandling: MAZE III-operation udføres kun på få centre og er som regel forbeholdt patienter med symptomatisk AFLI og indikation for anden samtidig hjertekirurgi. Ud over den klassiske MAZE III-operation anvendes der gennem den senere tid også andre ablationsmetoder.
+15.5.4 Farmaka til frekvens- og rytmekontrollerende behandling af AFLI
+Betablokkere
+Indikationer:
+akut frekvensregulering af AFLI med hurtig ventrikelaktion
+permanent frekvensregulering, evt. i kombination med digoxin
+anfaldsforebyggelse ved paroksystisk eller persisterende AFLI efter DC-konvertering
+Kontraindikationer:
+truende eller manifest hjerteinsufficiens og skal derfor gives med forsigtighed til patienter med nedsat eller ukendt venstre ventrikelfunktion
+der bør foreligge en transtorakal ekkokardiografi, før der påbegyndes akut frekvensregulerende behandling med i.v. betablokker
+Dosering:
+peroral dosering: tbl. metoprolol 100-200 mg dagligt, tbl. atenolol 50-100 mg dagligt, tbl. bisoprolol 5-10 mg dagligt, tbl. carvedilol 12,5-25 mg x 2 dagligt
+ved hjertesvigt startes med lav dosering og langsom optitrering. Patienten bør være i stabil fase og i optimal anden hjertesvigtsbehandling, se Kapitel 5: Kronisk hjerteinsufficiens, Afsnit 5.5 Behandling.
+intravenøs dosering: Fx metoprolol 2,5-5 mg langsomt i.v. over 5 minutter, som evt. kan gentages 1 til 2 gange. Bør være forbeholdt specielle tilfælde og anvendes med stor forsigtighed og anbefales generelt ikke ved nedsat systolisk venstre ventrikelfunktion
+Non-dihydropyridin calciumantagonister
+Indikationer:
+akut frekvensregulering af AFLI med hurtig ventrikelaktion
+førstevalgspræparat ved astma bronkiale
+der bør foreligge en transtorakal ekkokardiografi før, der påbegyndes akut frekvensregulerende behandling med i.v. eller peroral verapamil
+permanent frekvensregulering, evt. i kombination med digoxin. OBS: Samtidig indgift af verapamil og digoxin kan reducere digoxinudskillelsen med op til 50%
+Kontraindikationer:
+truende eller manifest hjerteinsufficiens og skal derfor gives med forsigtighed til patienter med nedsat eller ukendt venstre ventrikelfunktion
+hos patienter i betablokker behandling
+Dosering:
+peroral dosering: Fx tbl. verapamil retard 120-240 mg x 2 dagligt eller tbl. diltiazem retard 240-360 mg dagligt
+intravenøs dosering: Inj. 5 mg verapamil langsomt i.v. over 5 minutter, som evt. kan gentages 1 til 2 gange.
+Digoxin
+Indikationer:
+akut frekvensregulering af AFLI med hurtig ventrikelaktion især hos hjertesvigtpatienter
+permanent frekvensregulerende behandling. Digoxin kan suppleres/erstattes med betablokker eller non-dihydropyridin calciumantagonist
+især effektivt til frekvensregulering i hvile, men i mindre grad ved fysisk belastning. Hos ældre, relativt immobile patienter, kan man derfor ofte behandle alene med digoxin
+Dosering:
+mætningsdosis 0,75 til 1,0 mg i.v./peroralt inden for det første døgn, fordelt på 0,5 mg initialt, efterfulgt af 0,125 til 0,25 mg med 6 og 12 timers interval
+vedligeholdelsesdosis afhængig af alder, vægt og nyrefunktion (se skema nedenfor). Samtidig indgift af verapamil kan reducere digoxinudskillelsen med op til 50%
+Tabel 15.5: Digoxin, Døgndosis voksne, Antal tabletter a 62,5 µg
+  Vægt (kg)
+Serumkreatinin 50-130 µmol/l
+50-60
+60-80
+80-90
+Alder 15-49
+4
+5
+6
+Alder 50-69
+3
+4
+5
+Alder 70-89
+2
+3
+4
+Serumkreatinin 140-220 µmol/l
+      Alder 15-49
+2
+3
+4
+Alder 50-69
+2
+3
+3
+Alder 70-89
+2
+2
+3
+Serumkreatinin 230 µmol/l
+      Alder 15-49
+2
+2
+2
+Alder 50-69
+1
+2
+2
+Alder 70-89
+1
+2
+2
+Ovenstående er kun vejledende og kan kontrolleres ved bestemmelse af S-digoxin, der tages mindst 8 timer efter sidste digoxindosis. Terapeutisk plasmakoncentration: 1,0-2,0 nmol/l (0,8-1,6 µg/l), hvor der normalt stiles mod niveau i nedre halvdel af området, hos hjertesvigtpatienter ikke over 1,0 nmol/l (0,8 µg/l).
+Amiodaron
+Indikationer:
+konverterende behandling
+anfaldsforebyggende
+eneste antiarytmikum der kan anvendes ved hjertesvigt
+kan evt. anvendes ved utilstrækkelig frekvensregulering hos patienter med hjertesvigt eller EF <35%
+postoperativ AFLI
+Kontraindikationer:
+kendt overfølsomhed for iod
+eksisterende thyroideadysfunktion
+sinusbradykardi <50/min
+syg sinus syndrom medmindre patienten har pacemaker
+alvorlige AV-overledningsforstyrrelser, medmindre patienten har pacemaker
+QTc-interval ≥500 ms uden grenblok
+kombinationsterapi med præparater, der forlænger QT-intervallet
+Dosering: 1200-1800 mg dagligt peroralt indtil akkumuleret 10 g, alternativt 1200 til 1800 mg i.v. pr. døgn, herefter vedligeholdelsesdosis 200-400 mg x 1 dagligt.
+Virkningen indtræder først dage til uger efter behandlingsstart. De fleste patienter nøjes med peroral vedligeholdelsesdosis på 200 mg dagligt efter mætningsfasen. Dog kan doser under 200 mg dagligt være tilstrækkelige og medføre færre bivirkninger.
+Før behandlingen indledes:
+Der bør udføres 12 afledningers EKG, TSH, levertal.  Lungefunktionsundersøgelse med diffusionskapacitet og rtg thorax kan overvejes hos udvalgte patienter. 
+Behandlingen kan indledes ambulant, hvis den daglige mætningsdosis ikke overstiger 800 mg, og patienterne ikke har tegn til syg sinus syndrom, AV-overledningsforstyrrelser eller manifest hjertesvigt. Ved større mætningsdosis (som regel 1200 mg dagligt) indledes behandlingen under indlæggelse på sygehus med telemetri-overvågning i mindst 2 døgn.
+Under behandlingen bør foretages: 12 afledningers EKG, thyreoidea- og levertal efter 1, 3, 6 og 12 måneder, herefter hver 6. måned samt evt. rtg thorax årligt.
+Man bør være opmærksom på bivirkninger
+QTc-forlængelse (>500 ms)
+Torsade des pointes-takykardi
+bradyarytmier (SA- og AV-blok)
+hyper- eller hypothyreoidisme
+øjengener (specielt cornea-aflejringer, opticus-neurit), som bør udløse henvisning til øjenlæge
+nyopstået dyspnø eller andre lungesymptomer (interstitiel pneumonitis eller lungefibrosebør udredes med fornyet røntgen af thorax og/eller lungefunktionsundersøgelse med diffusionskapacitet)
+Ved opstart af amiodaronbehandling anbefales dosisreduktion af warfarin på 25-50% afhængigt af INR, som bør kontrolleres hyppigt. På baggrund af amiodarons lange halveringstid (op til 4 måneder) vil warfarinmetabolismen være påvirket i flere måneder efter ophør med amiodaronbehandling. Se Kapitel 35: Farmaka og kardiovaskulære komplikationer for yderligere interaktioner med amiodaron.
+Dronedaron
+Indikationer:
+anfaldsforebyggende behandling af AFLI med eller uden strukturel hjertesygdom og normal systolisk funktion af venstre ventrikel. Dog bør der udvises stor forsigtighed hos patienter med koronarsygdom
+Kontraindikationer:
+hjertesvigt eller nedsat systolisk funktion af venstre ventrikel
+alvorlige AV-overledningsforstyrrelser eller syg sinusknude uden fungerende pacemaker
+bradykardi <50/min
+permanent AFLI med varighed ≥6 måneder (eller ukendt varighed), hvor der ikke længere overvejes genetablering af sinusrytme
+lægemidler der kan inducere torsade de pointes
+QTc interval ≥500 ms uden grenblok
+betydelig nedsat lever- og nyrefunktion (kreatininclearance <30 ml/min)
+Dosering: 400 mg x 2 dagligt peroralt sammen med et måltid.
+Før behandlingen indledes: 12 afledningers EKG, levertal, væsketal. Behandlingen kan indledes ambulant, hvis patienterne ikke har tegn til syg sinus syndrom eller AV-overledningsforstyrrelser.
+Under behandling: Der anbefales kontrol af levertal og kreatinin efter 1. uge, månedligt de første 6 mdr samt efter 9 og 12 måneder. Herefter hver 6. måned.
+12 afledningers EKG anbefales hver 6. måned efter opstart.
+Ved tidlig stigning i serum-kreatinin efter indledning af behandlingen anbefales ugentlige målinger af nyretal. Hvis serum-kreatinin stabiliseres kan man anvende den seneste værdi som referenceværdi. Ved fortsat serum-kreatinin stigning, skal patienten udredes i nyremedicinsk regi og seponering af behandlingen bør overvejes.
+Ved stigning i ALAT ≥3 gange den øvre grænse af referenceintervallet, bør der tages nye levertal indenfor 2 til 3 døgn. Hvis det forhøjede ALAT-niveau bekræftes, bør dronedaron seponeres.
+Patienterne skal kontakte læge øjeblikkeligt ved symptomer på leverskade (mavesmerter, appetitløshed, kvalme, opkastning, feber, utilpashed, træthed, ikterus, mørkfarvning af urin eller kløe mhp vurdering inkl. Blodprøvetagning.
+Ved betydelig QT-forlængelse (QTc >500 ms) seponeres behandlingen hos patienter uden grenblok. Desuden observeres for Torsade des pointes-takykardi og bradyarytmier (SA-, AV-blok). 
+Der bør udvises forsigtighed ved samtidig behandling med statiner, digoxin, betablokker og/eller calciumantagonister.
+Klasse 1C: Flecainid/propafenon
+Indikationer
+konvertering af AFLI af kort varighed. Hos patienter med meget hurtig AFLI tilrådes frekvensregulerende behandling, før der gives klasse 1C antiarytmika. Kan eventuelt anvendes som pill-in-the-pocket terapi
+anfaldsforebyggende behandling
+Bør altid kombineres med et stof, der hæmmer AV-overledningen (f.eks. digoxin, betablokker) pga. risiko for konvertering af AFLI til en relativt langsom AFLA med mulighed for 1:1 overledning over AV-knuden.
+Kontraindikationer
+iskæmisk hjertesygdom
+nedsat venstre ventrikelfunktion (EF <50%)
+hypertrofi af venstre ventrikel >14 mm
+kendt grenblok
+Dosering
+konvertering: Peroral engangsdosis med tbl. flecainid 200-300 mg eller tbl. propafenon 450-600 mg. Alternativt kan gives inj. flecainid 1,5-2 mg/kg i.v. over 10 minutter. Infusionen afbrydes, når konverteringen er opnået. Efterfølgende 4-6 timers observation i telemetri
+anfaldsforebyggelse: Tbl. flecainid 100 mg x 2 (max. 150 mg x 2) dagligt, tbl. propafenon 150-300 mg x 2 dagligt
+Indledning og opfølgning af behandlingen
+der bør foreligge en aktuel ekkokardiografi, og ved mistanke om underliggende strukturel hjertesygdom bør patienten udredes yderligere
+behandlingen opstartes under indlæggelse på sygehus med telemetri-overvågning i 2 døgn. Det samme gælder ved dosisøgning og ved indledning af behandling med ”pill-in-the-pocket”-strategi
+bolus i.v. nødvendiggør monitorering
+plasmakoncentrationsbestemmelse bør udføres ved anvendelse af høje doser og i situationer, hvor der bør udvises særlig opmærksomhed (nedsat lever- eller nyrefunktion samt ved interaktionsrisiko). I Danmark udføres analysen af Unilab, som har følgende referenceinterval: 0,42-2,11 mikromol/l. Det er ikke relevant at foretage plasmakoncentrationsbestemmelse af propafenon
+hver 6. måned foretages 12 afledningers ekg samt blodprøver med væske/levertal.
+langtids-EKG bør overvejes ved symptomer, som kan give mistanke om proarytmi (anderledes arytmisymptomer, nytilkommen svimmelhed eller synkoper)
+Behandlingen bør seponeres ved  
+nytilkommen monomorf ventrikulær takykardi uden anden oplagt årsag
+udvikling af grenblok
+SA-blok, AV-blok eller betydende bradykardi
+mere end 25% øgning af QRS-bredden sammenlignet med før behandlingsstart
+15.5.5 Komorbiditet, livsstilsfaktorer og rehabilitering
+Identifikation og behandling af komorbiditet, kardiovaskulære risikofaktorer og livsstilsfaktorer anbefales som en integreret del i behandlingen af AFLI, idet det bidrager til forebyggelse af apopleksi og reducerer AFLI byrden og sværhedsgraden af symptomer.
+Blandt de vigtigste er:
+overvægt – øger recidiv af AFLI efter bl.a. lungeveneisolation
+alkohol - øget blødningsrisiko ved AK-behandling, øger incidens og recidiv af AFLI
+fysisk aktivitet - moderat fysisk aktivitet mindsker incident AFLI og recidiv af AFLI
+hypertension - øget risiko for incident AFLI, øget recidiv af AFLI efter lungeveneisolation, øget risiko for apopleksi og risiko for blødning ved AK-behandling
+diabetes - øget risiko for AFLI, god glykæmisk kontrol mindsker recidiv efter lungeveneisolation
+søvnapnø - behandling af søvnapnø kan bedre rytme-kontrol hos AFLI patienter(se også Figur 15.4)
+Det anbefales, at patienter med AFLI/AFLA vurderes individuelt mhp. henvisning til hjerterehabilitering (jvf. den i 2019 udkomne kliniske retningslinje fra Sundhedsstyrelsen. 
+Figur 15.4: Risikofaktorer der bidrager til dårligere behandlingsresultater ved AFLI
+Risikofaktorer der bidrager til udvikling af det abnorme AFLI substrat, som bl.a. giver dårligere outcomes ved rytmekontrollerende behandling, og som bør interveneres overfor hos alle AFLI patienter (både ved rytme- og frekvensregulerende strategi).
+AFLI = atrieflimren, BMI = body mass index, HbA1c = hæmoglobin A1c
+15.6 Atrieflimren og overgang til det nære sundhedsvæsen
+AK-behandling
+Ved stabil AK-behandling kan kontrollerne heraf foregå i primærsektoren ved dedikerede sundhedscentre/praktiserende læger. Relevante blodprøver alt efter type af AK-behandling. Må AK-behandlingen ophøre pga. alvorlig blødning eller tilkommer der tromboemboliske komplikationer under pågående behandling, bør man overveje henvisning til hospitalsambulatorium mhp. fornyet vurdering af AK-behandlingen. Det anbefales at risiko for tromboemboli og blødningsrisiko løbende revurderes, da disse er dynamiske.
+Efter lungeveneisolation
+Følges initialt ved ablationssted eller AFLI-klinik (se afsnit om ablation/lungevenisolation). Ved sinusrytme uden rytmeregulerende medicin kan patienten afsluttes med besked om at henvende sig til primærsektoren ved fornyede symptomer. Ved symptomer på recidiv af AFLI/AFLA udføres EKG og evt. genhenvises til sygehus/hospital mhp. revurdering.
+Kontrol og opfølgning af patienter i farmakologisk rytmeregulerende behandling
+Patienter i behandling med klasse IC og III antiarytmika følges og monitoreres på hospital eller ved speciallæge i kardiologi (se Afsnit 15.5.4 Farmaka til frekvens- og rytmekontrollerende behandling af AFLI).
+Hos patienter i medicinsk anfaldsforebyggende eller frekvensregulerende behandling med de øvrige lægemidler, og som har opnået de ønskede behandlingsmål, er det rimeligt at kontrollere patienten én gang årligt mhp. EKG-kontrol og evt. præparat- eller dosis-justering (for Digoxin under hensyntagen til nyrefunktion, alder og vægt) samt blodprøver afhængig af hvilken type medicinsk behandling. Dette kan foregå på hospital eller i primærsektoren ved dedikeret praktiserende læge/sundhedshus.
+Hvis patienter i anfaldsforebyggende behandling får bivirkninger af medicinen eller gennembrud af intolerable symptomer, konfereres med kardiologisk ambulatorium mhp. evt. dosisjustering, præparatskift og/eller behov for henvisning til yderligere vurdering, herunder stillingtagen til evt. indikation for lungeveneisolation/re-ablation.
+Ved mistanke om betydende brady- eller takykardi under frekvensregulerende behandling overvejes 1-2 døgns Holter-monitorering. Ved bradykardi foretages dosis-reduktion og evt. seponering. Ved intraktabel takykardi, pga. nødvendig dosisreduktion grundet bivirkninger, kan overvejes henvisning til hospital mhp. fornyet vurdering.
+Download behandlingsvejledningen som app!
+Download den nu. Kan downloades i Google Play og App Store.

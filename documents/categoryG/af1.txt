@@ -1,0 +1,221 @@
+Forside /
+Behandlingsvejledning /
+Atrieflimren og atrieflagren
+Indhold
+15. Atrieflimren og atrieflagren
+Forfattere: Frederik Dalgaard , Niels Risum , René Husted Worck og Steen Buus Kristiansen
+Referenter: Ole Dyg Pedersen og Ulrik Winsløw
+Revideret af DCS' arbejdsgruppe for Arytmi
+Opdateret 12 Maj 2023 00:30●Visninger: 10149
+15.1 Definition
+15.2 Faktorer og tilstande som er associeret med atrieflimren
+15.3 Inddeling/klassifikation
+15.4 Diagnostik/udredning
+15.5 Behandling
+15.6 Atrieflimren og overgang til det nære sundhedsvæsen
+Kapitlet er i forbindelse med årets revision ændret på følgende områder:
+Ved opstart af Cordarone kan lungefunktionsundersøgelse med diffusionskapacitet og rtg thorax overvejes hos udvalgte patienter. Undersøgelserne skal ikke længere udføres hos alle.
+15.1 Definition
+Atrieflimren (AFLI): Supraventrikulær takyarytmi som er karakteriseret ved ukoordinerede atriale depolarisationer og som en konsekvens heraf ophævet mekanisk atrial funktion.
+Diagnosen AFLI kan stilles, hvis 12-afledningers EKG viser AFLI eller enkelt aflednings EKG viser en episode, der varer ≥30 sekunder.
+Atrieflagren (AFLA): Regelmæssig makro-reentry takykardi oftest med en atrial frekvens >240/min. Der skelnes mellem typisk AFLA med anatomisk substrat i højre atrium og atypisk AFLA med anatomisk substrat i enten højre atrium, venstre atrium eller atrieseptum.
+Ætiologi, inddeling, diagnostik, tromboembolisk risiko og behandling af AFLA er som beskrevet for AFLI - se nedenfor. Dog med den undtagelse at kurativ radiofrekvensablation (”istmusblok”) er en veletableret behandling for typisk AFLA – mindst 90% kan ”helbredes”. Derfor bør patienter med typisk AFLA henvises til Højtspecialiseret Enhed (HSE). Ved henvisningen bør det sikres, at patienten ikke samtidig har AFLI, da istmusblok alene i denne situation formentlig ikke gavner patienten.
+15.2 Faktorer og tilstande som er associeret med atrieflimren
+AFLI er associeret med en række generelle og kardiovaskulære sygdomme (se nedenfor), som kan bidrage til at vedligeholde AFLI og samtidig kan være markører for patientens kardiovaskulære risiko. Det er derfor vigtigt at identificere og behandle de modificerbare risikofaktorer og øvrige komorbiditet.
+alder
+arteriel hypertension
+hjertesvigt
+takykardi-induceret kardiomyopati
+hjerteklapsygdomme
+kardiomyopati og ion-kanal sygdom
+atrieseptumdefekt
+andre medfødte hjertesygdomme
+iskæmisk hjertesygdom
+hyperthyreose, også subklinisk tilstand
+fedme
+diabetes mellitus
+kronisk obstruktiv lungesygdom
+søvnapnø
+nyresvigt
+alkoholoverforbrug
+15.3 Inddeling/klassifikation
+Paroksystisk: Selvlimiterende episoder af AFLI, der i mange tilfælde varer <2 døgn, men kan vare op til 7 døgn. AFLI episoder, der konverteres indenfor 7 døgn, kaldes også paroksystisk.
+Persisterende: Episoder af AFLI der varer >7 døgn inkl. episoder, der kræver konvertering for at genetablere sinusrytme.
+Langvarig persisterende: AFLI der har varet ≥1 år, men hvor der alligevel findes indikation for rytmekontrollerende behandling.
+Permanent: AFLI hvis tilstedeværelse er accepteret, og hvor der ikke findes grundlag for yderligere forsøg på konvertering til sinusrytme.
+Bemærk: Alle typer kan være førstegangstilfælde på det tidspunkt, hvor diagnosen stilles.
+Hvis patienten har både paroksystiske og persisterende episoder af AFLI, klassificeres tilstanden efter den hyppigst forekommende type.
+15.4 Diagnostik/udredning
+12-afledningers EKG
+AFLI: P-takkerne er ofte erstattet af flimrelinie, som dog kan mangle. QRS-rytmen er uregelmæssig. (Bemærk: Ved regelmæssig langsom QRS-frekvens kan der foreligge 3. grads AV-blok)
+AFLA: Ved typisk AFLA ses savtaksagtige P-flagre-takker (negativt nettoareal i de inferiore afledninger) med fast eller vekslende overledning til ventriklerne. Atypisk AFLA afviger herfra og kan være vanskelig at skelne fra AFLI
+Anamnese
+symptomer (træthed, funktionsdyspnø, palpitationer og brystsmerter). EHRA klassifikation anvendes til vurdering af sværhedsgrad/symptombyrde (Tabel 15.1)
+arytmivarighed
+arytmimønster
+underliggende kardiovaskulær sygdom
+tromboembolirisiko (CHA2DS2-VASc-score, Tabel 15.2)
+blødningsrisiko (Tabel 15.3)
+Tabel 15.1 EHRA klassifikation af AFLI-symptomer
+EHRA-klasse
+
+Sværhedsgrad af symptomerne
+
+EHRA I Ingen symptomer
+EHRA IIa Normale daglige aktiviteter ikke påvirket af AFLI-symptomer
+EHRA IIb Normale daglige aktiviteter ikke påvirket af AFLI-symptomer, men patienten er bekymret
+EHRA III Normale daglige aktiviteter påvirket af AFLI-symptomer 
+EHRA IV Normale daglige aktiviteter ikke mulige
+Objektiv undersøgelse inkl. BT-måling
+Ekkokardiografi
+Blodprøver: TSH, hæmoglobin, væsketal, levertal, CRP, leukocytter, INR, HbA1c
+Supplerende undersøgelser: 
+Evt. langtids-EKG-monitorering (Holter-monitorering, event-recorder) til udredning/vurdering af
+paroksystisk AFLI
+syg sinus syndrom
+frekvenskontrol
+Supplerende udredning ved mistanke om iskæmisk hjertesygdom, se Kapitel 3: Kronisk koronart syndrom.
+Da AFLI oftest må opfattes som en kronisk sygdom, der forandrer sig med tiden, vil der i mange tilfælde være behov for individuelle justeringer af behandlingsstrategien. Sygdommen vil derfor hos en hel del patienter kræve længerevarende opfølgning.
+15.5 Behandling
+Behandlingen af AFLI har til formål at reducere symptombyrden og forebygge alvorlige AFLI-relaterede komplikationer som apopleksi og hjertesvigt. Der skal derfor tages stilling til AK-behandling, behov for frekvens- eller rytmekontrollerende behandling samt hjerterehabilitering mhp. justering af livsstilsfaktorer (se Afsnit 15.5.5 Komorbiditet, livsstilsfaktorer og rehabilitering).
+Nedenstående figur viser udrednings- og behandlingskaskaden.
+Figur 15.1: Behandling af AFLI
+  AAD = medikamentel antiarytmisk behandling; EHRA = European Heart Rhythm Association; CV = cardiovertering (medikamentel eller DC-konvertering); NOAK = non-vitamin K antagonist antikoagulantia; TTR = tid i terapeutisk range/niveau; VKA = vitamin K-antagonist. PVI = Pulmonal vene isolation (lungevene isolation)
+15.5.1 AK-behandling
+Op til 25% af iskæmisk apopleksier skyldes tromboemboli forårsaget af AFLI. De tromboemboliske apopleksier er hyppigt fatale, og patienter, som overlever har flere sequelae end patienter med apopleksi uden AFLI. Risikoen for tromboemboli er gennemsnitlig 5 gange øget ved AFLI, men med betydelig individuel variation. Den tromboemboliske risiko afhænger af øvrige risikofaktorer, og risikoen stiger additivt med antallet af risikofaktorer. Derfor bør behandling omfatte grundig undersøgelse og behandling af tilstedeværende risikofaktorer. Da risikofaktorerne er dynamiske over tid, anbefales det at tromboemboli- og blødningsrisiko løbende revurderes.
+Indikation for AK-behandling 
+Ved alle typer af AFLI og AFLA skal AK-behandling overvejes.
+Opdages AFLI vha. en pacemaker, ICD eller implanterbar loop-recorder, overvejes AK-behandling ved en episode, som varer >24 timer, hvis patienten har høj tromboembolirisiko (CHA2DS2-VASc-score ≥2 (mænd) og ≥3 (kvinder)). Pacemaker- eller ICD-detekterede episoder skal desuden opfylde frekvenskriteriet >180 slag/min i atriet.
+AK-behandling omfatter enten behandling med non-vitamin K antagonist orale antikoagulantia (NOAK) (dabigatran, rivaroxaban, apixaban, edoxaban) eller vitamin-K-antagonist (VKA) (warfarin, phenprocoumon).
+Til vurdering af indikation for AK-behandling anbefales risikostratificering for tromboemboli med CHA2DS2-VASc-score (Tabel 15.2 og Figur 15.2).
+CHA2DS2-VASc-score≥2 (mænd), ≥3 (kvinder): AK-behandling (NOAK eller VKA)
+CHA2DS2-VASc-score=1 (mænd), =2 (kvinder): AK-behandling (NOAK eller VKA) skal overvejes (OBS: alder er en væsentlig risikofaktor!)
+CHA2DS2-VASc-score=0: ingen behandling
+Der kan downloades CHA2DS2-VASc-score beregner til flere smartphones.
+Tabel 15.2: Risikofaktorer for tromboemboli ved AFLI, CHA2DS2-VASc-score og årlig risiko for tromboemboli
+ Risikofaktorer  CHA2DS2-VASc-score
+ C Congestive heart failure
+(Hjertesvigt/nedsat venstre ventrikelfunktion) 1
+ H Hypertension 1
+ A Alder ≥75 år 2
+ D Diabetes mellitus 1 
+ S Stroke/TIA/systemic embolism
+(Apopleksi/TCI/perifer emboli) 2
+ V
+Vascular disease
+(Myokardieinfarkt, perifer arteriel sygdom, aortaplaques)
+1
+ A  Alder 65-74 år 1
+Sc  Sex category
+(kvindeligt køn) 1
+Maximum score  9
+  Score Tromboemboli rate (%/år)
+0 0
+1 1,3
+≥2 ≥2,2
+  Figur 15.2: Flowchart til vurdering af indikation for AK-behandling ved AFLI
+NOAK = non-vitamin K antagonist antikoagulantia ; VKA = vitamin K-antagonist; LAA = ve. atriums aurikel
+aomfatter også kvinder uden andre risikofaktorer for apopleksi
+bved VKA-behandling forudsættes at tid i terapeutisk INR-interval (TTI) ≥70% - se Kapitel 14: Antikoagulationsbehandling, Afsnit 14.4.3 Peroral antikoagulansbehandling med vitamin-K-antagonister (VKA)
+cder bør tages hensyn til den individuelle patients karakteristik og præferencer
+Lægemiddelvalg og dosering
+Ved indikation for AK-behandling foretrækkes generelt NOAK frem for VKA, med mindre der er kontraindikation mod NOAK. – For specifikationer af anbefalinger se Kapitel 14: Antikoagulationsbehandling.
+Behandling med acetylsalicylsyre (ASA)
+Behandling med ASA anbefales ikke, idet ASA ikke reducerer risikoen for tromboemboli signifikant, men øger risikoen for blødningskomplikationer.
+Vurdering af blødningsrisiko
+Inden opstart af peroral AK-behandling bør patienten vurderes med henblik på identificering af modificerbare og ikke-modificerbare risikofaktorer for blødning (Tabel 15.3). En høj blødningsrisiko kontraindicerer ikke AK-behandling, men behandlingen bør monitoreres tæt.
+Tabel 15.3: Risikofaktorer for blødning ved AFLI
+Modificerbare risikofaktorer
+Hypertension (især ukontrolleret systolisk blodtryk >160 mmHg)
+Labil INR eller TTI < 60% ved VKA-behandling
+Behandling med trombocythæmmer eller NSAID
+Betydeligt alkoholindtag (≥8 genstande om ugen)
+Potentielt modificerbare risikofaktorer
+Anæmi
+Nedsat nyrefunktion
+Nedsat leverfunktion
+Lavt trombocyttal eller nedsat trombocytfunktion
+Ikke-modificerbare risikofaktorer
+Alder >65 år
+Tidligere større blødning
+Tidligere stroke (apopleksi)
+Kronisk dialyse eller tilstand med nyretransplantation
+Levercirrose
+15.5.2 Specielle situationer ved AK-behandling
+Paroksystisk og persisterende AFLI 
+For patienter med paroksystisk, persisterende og permanent AFLI anvendes samme kriterier for AK-behandling.
+AFLI og stabil vaskulær sygdom 
+Hos patienter med AFLI og stabil iskæmisk hjertesygdom og/eller anden aterosklerotisk karsygdom (perifert, i carotiderne eller aorta) anbefales generelt NOAK eller VKA-behandling som monoterapi. Dog kan der være individuelle forhold som indicerer kombinationsbehandling. Se Kapitel 3: Kronisk koronart syndrom, Afsnit 3.6.1.
+AFLI og akut koronart syndrom (AKS) og/eller perkutan koronar intervention (PCI)
+Patienter, der er i AK-behandling (NOAK eller VKA) grundet AFLI, og som udvikler AKS og/eller får foretaget PCI-behandling, behandles som anført i Kapitel 1: Akut koronart syndrom og Kapitel 3: Kronisk koronart syndrom
+Patienter med nyligt AKS og AFLI anbefales i en periode behandlet med tripleterapi med ASA, clopidogrel og NOAK eller VKA-behandling (INR 2,0-2,5)1 - se Kapitel 1: Akut koronart syndrom, afsnit 1.6.7og Figur 1.3
+Patienter med nylig PCI grundet stabil angina, og AFLI, anbefales i en periode behandlet med tripleterapi med ASA, clopidogrel og NOAK eller VKA-behandling (INR 2,0-2,5)1 - se Kapitel 3: Kronisk koronart syndrom, Afsnit 3.6.1 og Figur 3.3
+1Da blødningsrisikoen antages at være størst ved længerevarende behandling, anbefales triple-terapi kun i en begrænset periode, hvorunder der ved NOAK behandling overvejes reduceret dosis og ved VKA behandling er der påkrævet stram styring af INR med tilstræbt interval på 2,0-2,5 jvf Kapitel 1: Akut koronart syndrom.
+For at fastlægge behandlingsvarigheden af henholdsvis triple- og dualterapi bør man estimere patientens blødningsrisiko ved at anvende HAS-BLED scoren. En HAS-BLED score på 0-2 indikerer lav blødningsrisiko, mens en HAS-BLED score på ≥ 3indikerer en høj blødningsrisiko (Tabel 15.4).
+Tabel 15.4: Risikofaktorer for blødning ved AFLI, HAS-BLED score og årlig risiko for blødning
+Risiko faktorer HAS-BLED score
+ H  Hypertension1 1
+ A  Anormal nyre2 eller lever3 funktion (1 point hver)  1 eller 2
+ S Stroke (tidligere apopleksi) 1
+ B Blødning4 1
+ L  Labile INR (TTI <60%) 1
+ E  Elderly (alder >65 år) 1
+ D Drugs5 eller alkohol6 (1 point hver) 1 eller 2
+Maksimum score 9
+  Score Blødningsrate (%/år)
+0-1 ≤1,02
+2 1,88
+≥3 ≥3,74
+1hypertension: Ukontrolleret arteriel hypertension med systolisk BT >160 mmHg
+2abnorm nyrefunktion: Kronisk dialyse, tilstand med nyretransplantation eller S-kreatinin >200 µmol/l
+3abnorm leverfunktion: Kronisk leversygdom eller forandringer af levertallene (bilirubinforhøjelse >2 gange øvre grænse af normalområdet, ALAT >3 gange øvre grænse af normalområdet)
+4blødning: Anamnestisk større blødning (indlæggelseskrævende, Hgb-fald ≥1,24 mmol/l, transfusionskrævende, intrakraniel blødning) eller prædisposition i form af anæmi
+5drugs: Trombocythæmmere eller NSAID
+6alkohol: >8 genstande om ugen
+Kateterablation (lungeveneisolation) af AFLI
+Ablationsbehandling af AFLI foretages under NOAK eller AK-behandling med VKA. Vedrørende NOAK er evidensen bedst for dabigatran og apixaban, dernæst rivaroxaban. Mindst erfaring haves med edoxaban.
+Ved VKA-behandling skal behandlingen som minimum være opstartet 3 uger forud for indgrebet (med INR ≥2 med ugentlige målinger), og behandlingen fortsætter til mindst 3 måneder efter ablationen er foretaget.
+Anvendes NOAK skal patienten ligeledes være i behandling i minimum 3 uger forud for indgrebet. Der anvendes den høje standarddosis NOAK (dabigatran 150 mg x 2 dagligt, rivaroxaban 20 mg x 1 dagligt, apixaban 5 mg x 2 dagligt, edoxaban 60 mg x 1 dagligt). Hvis patienten er i fast behandling med nedsat NOAK-dosis, konfereres med det center, der udfører ablationsbehandlingen.
+Vanligvis udføres TEE inden proceduren (≤48 timer før) mhp. udelukkelse af trombe i venstre atrium og aurikel.
+Ablation af højresidig AFLA kan foretages under enten VKA- eller eventuelt NOAK-behandling, hvor alle fire NOAK er tilladelige (minimum 3 uger før og 3 måneder efter ablationen). Livslang behandling anbefales i henhold til Afsnit 15.5.1 AK-behandling.
+AFLI og apopleksi
+AK-behandling hos en patient med nyligt cerebralt infarkt øger risiko for hæmorrhagisk transformation. AK-behandling kan dog være indiceret mhp. forebyggelse af yderligere infarkter.
+For at minimere blødningsrisikoen anbefales:
+påbegyndelse af velindiceret AK-behandling behandling afgøres af eller i samråd med den patientansvarlige apopleksiafdeling
+AK behandling (ved fravær af blødning og/eller forøget risiko for blødning) kan som udgangspunkt påbegyndes/genoptages:
+1 døgn efter TIA
+3 dage efter et mindre infarkt
+6 dage efter mellemstore infarkter
+12 dage efter større cerebral iskæmisk skade
+patienter med proteseklap fortsætter som hovedregel igangværende blodfortynding. Mål-værdi for INR fastsættes i samråd mellem neurologisk og kardiologisk afdeling, afhængig af vurdering af risikoen for hæmorrhagisk transformation i det cerebrale infarkt
+For patienter med non-valvulær AFLI kan AK-behandling enten bestå i VKA-behandling eller NOAK. Se i øvrigt Kapitel 25: Kardiel embolikilde.
+Hos patienter med tromboemboliske komplikationer trods VKA behandling i niveau, INR 2,0-3,0, anbefaler man øgning af det terapeutiske INR niveau (INR-niveau maksimalt 3,0-3,5) eller skift til NOAK, såfremt der ikke er kontraindikation mod NOAK. Hos patienter i NOAK behandling anbefales at sikre, at patienten er kompliant.
+Kateterbaseret aurikellukning
+Kateterbaseret lukning af venstre aurikel kan overvejes som et alternativ hos patienter med alvorlige blødningskomplikationer under AK-behandling, høj blødningsrisiko eller ved tromboemboliske komplikationer under sufficient AK-behandling. Patienten bør konfereres med HSE.
+Efter indgrebet behandles patienter med ASA 75 mg x 1 dagligt i 6 måneder. ASA kan herefter seponeres, hvis der ikke foreligger anden indikation for behandlingen.
+Kirurgisk ablation (Maze-operation) og kirurgisk aurikellukning/-eksklusion
+Patienter med kendt AFLI og  CHA2DS2-VASc-score ≥2 som undergår åben hjertekirurgi, bør drøftes med thoraxkirurg mhp. stillingtagen til samtidig kirurgisk aurikellukning.
+Patienter, som har fået foretaget disse indgreb, bør gives livslang peroral AK-behandling ved øget tromboembolirisiko i henhold til Afsnit 15.5.1 AK-behandling.
+Akut (nyopdaget) AFLI
+Da man ikke ved hvor hurtigt, der kan dannes tromber i venstre atriums aurikel efter opståen af AFLI, kan der argumenteres for at påbegynde AK-behandling, så snart AFLI er dokumenteret på 12 afledningers EKG. Der startes behandling med NOAK, alternativt VKA. Da VKA først er effektiv, når INR er i terapeutisk niveau, kan der anvendes lavmolekylært heparin (LMH) som overlappende behandling, hvis man vurderer, at patienten har en særlig høj risiko for tromboemboli, f.eks. ved påvist intrakavitær trombe.
+AFLI opstået i forbindelse med akut infektion eller kirurgi
+Patienter med AFLI opstået i forbindelse med infektion eller kirurgi (herunder hjertekirurgi) har øget risiko for apopleksi og recidiv af AFLI. Som udgangspunkt bør disse patienter behandles som enhver anden patient med AFLI. Dette gælder også AK-behandling, som bør gives afhængigt af patientens CHA2DS2-VASc-score.
+Patienten bør henvises til kardiologisk vurdering inklusiv ekkokardiografi. Hvis en opfølgende kontrol på baggrund af anamnese, langtidsmonitorering og ekkokardiografi kan sandsynliggøre, at patientens AFLI udelukkende har været udløst af infektion eller kirurgi, kan den perorale AK-behandling seponeres. Hvis der hersker tvivl herom, bør peroral AK-behandling fortsættes, hvis der er øget tromboembolirisiko ud fra patientens CHA2DS2-VASc-score.
+Valvulær AFLI
+NOAK anbefales ikke ved valvulær AFLI (mitralstenose og mekanisk hjerteklap). Reumatisk mitralstenose hos AFLI-patienter medfører 17 gange øget risiko for tromboemboli og indicerer VKA-behandling. Hos AFLI-patienter med mekanisk aorta- og/eller mitralklapprotese anbefales VKA evt. suppleret med livslang ASA-behandling. Se Kapitel 14: Antikoagulationsbehandling, Tabel 14.1.
+AFLI hos patienter med cancer
+Hos patienter med AFLI og cancer, hvor der er behov for behandling med kemoterapi, er der erfaring for, at behandlingen med VKA er meget svær at styre blandt andet på grund af interaktion med kemoterapeutika og ændringer i kostvaner i forbindelse med sygdom og kemoterapi.
+Såfremt der findes indikation for fortsat AK-behandling hos cancerpatienter, kan LMH eller NOAK anvendes med samme forbehold, som beskrevet i Kapitel 12: Lungeemboli og dyb venetrombose, Afsnit 12.4 Venøs tromboembolisk sygdom hos cancerpatienter, om end evidensen for AK-behandling ved AFLI og cancer er mere sparsom. Det vurderes individuelt, hvorvidt der skal skiftes tilbage til VKA efter afsluttet kemoterapi.
+Kontrol efter opstart af AK-behandling
+NOAK: Da dosis afhænger af nyrefunktionen kontrolleres denne ved indledning af behandling og ved langtidsbehandling desuden hver 3.-6. måned det første år. Herudover bør nyrefunktionen vurderes i særlige kliniske situationer, hvor der er mistanke om fald i nyrefunktionen (fx infektion, dehydrering). Hos patienter over 75 år eller med nedsat nyrefunktion bør nyrefunktionen vurderes mindst én gang årligt.
+VKA: (se Kapitel 14: Antikoagulationsbehandling, Tabel 14.1).
+15.5.3 Frekvens– og rytmekontrol
+Frekvenskontrol = sænke ventrikelfrekvensen 
+Rytmekontrol = konvertering til eller opretholdelse af sinusrytme (antiarytmika, DC-stød, ablation)
+Frekvenskontrollerende behandling gives til alle patienter med symptomgivende AFLI eller AFLA med hurtig ventrikelaktion. Ofte er supplerende rytmekontrollerende behandling i form af kardiovertering, antiarytmika eller lungeveneisolation nødvendigt.
+Akut behandling af AFLI
+Hos hæmodynamisk ustabile patienter vurderes den tilgrundliggende årsag. Formodes tilstanden primært at være forårsaget af AFLI (og ikke fx sepsis el. andet.), overvejes akut DC-konvertering
+Akut frekvensregulerende behandling gives til alle patienter med AFLI >2 døgn eller ukendt varighed og hurtig ventrikelaktion, medmindre patienten er hæmodynamisk påvirket i en grad, der indicerer akut DC-konvertering. I den akutte situation stiles der mod en frekvens på <110 /min
+Behandling kan indledes med intravenøs/peroral digoxin eller med peroral betablokker eller non-dihydropyridin calciumantagonist afhængig af effekten. Før anvendelse af betablokker eller non-dihydropyridin calciumantagonist, bør der foreligge en ekkokardiografisk vurdering af venstre ventrikels systoliske funktion
+Hos patienter med hjertesvigt kan man i udvalgte tilfælde anvende amiodaron under dække af AK-behandling mhp medicinsk konvertering.  Akut start af amiodaron og andre konverterende antiarrytmika bør – analogt med DC- konvertering – forudgåes af TEE for at udelukke trombe, hvis AF har varet >48 timer eller debuttidspunkt er ukendt
+Ved den stabile patient med AFLI <48 timer vil man også oftest stile mod direkte konvertering (medicinsk og/eller elektrisk), især hvis episoden har varet >12 timer. Se Kapitel 16: Kardiovertering af atrieflimren/-flagren

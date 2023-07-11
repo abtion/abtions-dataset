@@ -1,0 +1,184 @@
+14.5 Parenteral antikoagulationsbehandling med hepariner, pentasakkarider og direkte trombinhæmmere
+Heparinerne omfatter ufraktioneret heparin (UFH) og LMH, hvoraf kun LMH omtales nedenfor. Fondaparinux er det eneste tilgængelige parenterale pentasakkarid og anvendes i Danmark primært ved NSTEMI/UAP (se Kapitel 1: Akut koronart syndrom). Parenterale direkte trombinhæmmere (f.eks. bivalirudin og argatroban) anvendes kun på særlige indikationer og omtales ikke yderligere.
+Lavmolekylære hepariner
+Lavmolekylære hepariner fremstilles af UFH og adskiller sig bl.a. fra UFH ved deres lavere molekylevægt, længere halveringstid, mindre interaktion med trombocytter (lavere risiko for heparininduceret trombocytopeni) og relativt kraftigere hæmning af faktor Xa end trombin. I Danmark anvendes LMH-præparaterne dalteparin, tinzaparin og enoxaparin, som har sammenlignelige farmakokinetiske egenskaber (renal udskillelse, maksimal plasma koncentration 4-6 timer, halveringstid 2-4 timer). På trods af, at de tre LMH-præparater anvendes som fuldt substituerbare i klinisk praksis, varierer evidensen mellem de enkelte præparater ift. effektivitet og sikkerhed ved specifikke tilstande.           
+Dosering
+LMH doseres efter præparat og indikation. Ved tromboseprofylakse gives LMH i fast dosis uden hensyntagen til vægt. Typiske daglige profylaksedoser er dalteparin 5000 IE, enoxaparin 40 mg eller tinxaparin 4500 IE. En undtagelse er tromboseprofylakse under graviditet, hvor LMH doseres efter kvindens prægravide vægt jf. DSTHs rapport og ledsagende app om ”Tromboembolisk sygdom under graviditet og post-partum”. 
+Ved brug af terapeutiske doser (typisk ved VTE, atrieflimren/atrieflagren eller mekaniske hjerteklapper) doseres efter vægt og under hensyntagen til nyrefunktionen som anført i Tabel 14.4. Dosis af dalteparin (men ikke enoxaparin og tinzaparin) reduceres med 25% (fra 200 IE/kg til 150 IE/kg) efter 1 måneds behandling hos patienter med VTE og cancer.
+Den maksimale døgndosis for dalteparin er 18000 IE ved VTE og 10000 IE x 2 ved AKS uanset vægt, hvorfor enoxaparin eller tinzaparin er førstevalg ved vægt >120 kg, men bør overvejes frem for dalteparin allerede ved vægt >100 kg.
+Tabel 14.4: Terapeutisk dosering af LMH
+  Daglig dosis ved GFR >30 ml/min
+Daglig dosis ved GFR ≤30 ml/min
+Dalteparin
+200 IE/kg s.c. x 1
+(maksimalt 18000 IE/døgn)
+GFR >20 ml/min: Uændret dosis
+GFR ≤20 ml/min: Dosis halveres
+Enoxaparin
+150 IE/kg s.c. x 1*
+GFR 15-30 ml/min: Dosis halveres
+GFR <15 ml/min: Kontraindiceret
+Tinzaparin
+175 IE/kg s.c. x 1
+GFR >30 ml/min: Uændret dosis
+GFR ≤30 ml/min: Dosis halveres
+*Ved indledning af behandlingen kan der gives 100 IE/kg x 2 dgl., særligt ved høj tromboserisiko
+Kontrol
+Der er ikke behov for rutinemæssig biokemisk monitorering af den antikoagulerende effekt af LMH, da rutinemæssig monitorering ikke mindsker risikoen for blødning eller trombose. Ved behandlingssvigt samt ved betydelig risiko for akkumulering af LMH hos patienter med svær overvægt eller svær nyreinsufficiens kan man, især ved samtidig blødning, overveje monitorering med anti-faktor Xa i samråd med det lokale laboratorium.
+Bivirkninger
+Der henvises til www.pro.medicin.dk.
+Af særlig interesse omtales her heparininduceret trombocytopeni (HIT). HIT type 1 indtræder timer efter indgift af LMH, og der er vanligvis tale om beskeden forbigående trombocytopeni. HIT type 2 indtræder oftest efter flere dages behandling og skyldes en immunmedieret reaktion, som optræder hos op til 5% af patienter behandlet med UFH og 0,1% af patienter behandlet med LMH. HIT type 2 medfører en høj risiko for trombose (både arteriel og venøs)og heraf amputation og død. Ved mistanke om HIT  screenes med 4Ts scoren. HIT bekræftes eller udelukkes ved laboratorieundersøgelser. Ved betydelig mistanke om HIT (4Ts score ≥4) skal heparin straks seponeres og erstattes af anden AK-behandling (typisk argotraban eller fondaparinux, evt. bivalirudin eller NOAK). Udredning og behandling skal konfereres med trombosecenter/koagulationsvagt.
+14.6 Skift mellem AK-præparater
+Skift fra VKA til NOAK: INR måles ved behandlingsophør af VKA. Ved INR <2 kan NOAK påbegyndes med det samme. Ved INR 2,0-2,5 kan NOAK påbegyndes næste dag. Ved INR >2,5 afventes INR fald inden påbegyndelse af NOAK; INR kontrolleres efter 2-3 dage.
+Skift fra NOAK til VKA: Ved påbegyndelse af VKA hos en patient behandlet med NOAK fortsættes NOAK, indtil INR er i terapeutisk niveau.
+Skift fra NOAK til NOAK: Påbegynd det nye NOAK ved næste planlagte dosis af det tidligere anvendte NOAK.
+Skift fra LMH til NOAK: Påbegynd NOAK 0-2 timer før næste planlagte subkutane dosis.
+Skift fra LMH til VKA: Ved påbegyndelse af VKA hos en patient i LMH-behandling fortsættes LMH, indtil INR er i terapeutisk niveau i to på hinanden følgende målinger. Hos patienter med høj blødningsrisiko og fravær af manifest trombose eller høj tromboserisiko kan perioden med behandlingsoverlap reduceres eller undværes.
+14.7 Blødning under AK-behandling
+Ved blødning under AK-behandling anbefales, at man inddrager den regionale koagulations/blødningsvagt.
+Ved mindre blødning vil pausering af behandlingen samt evt. kombineret med kompression være tilstrækkeligt.
+Alvorlig og livstruende blødning behandles symptomatisk med blodprodukter (erytrocytter, frisk frosset plasma, trombocytkoncentrat), væske, tranexamsyre/lokal hæmostatika. Hvis muligt foretages kirurgisk kontrol af blødningen. Hæmostasen monitoreres initielt og kontinuerligt (standard hæmostasescreening: trombocytter, hæmoglobin, APTT, protrombintid, fibrinogen samt ved alvorlig livstruende blødning TEG/ROTEM) i tæt samråd med blødningsvagt. Se desuden ”Vejledning om transfusionsmedicinsk behandling og monitorering af den blødende patient” udgående fra Dansk Selskab for Klinisk Immunologi samt DSTHs blødningsapplikation. Herudover overvejes specifikke tiltag rettet mod ophævelse af effekten af pågående AK-behandling, tilpasset det specifikke præparat, som beskrevet i nedenstående.
+14.7.1 Specifikke forhold ved blødning under NOAK-behandling
+Plasmamåling af det specifikke NOAK er relevant, særligt ved mistanke om overdosering. Hos den truede patient afventes svar på plasmamålingen ikke før iværksættelse af behandlingstiltag. Følgende tiltag specifikt rettet mod ophævelse af effekten af en pågående NOAK-behandling kan overvejes ved alvorlig/livstruende blødning:
+Tabel 14.5: Specifikke forhold ved blødning under NOAK-behandling
+  Dabigatran
+Rivaroxaban
+Apixaban
+Edoxaban
+Aktivt kul
+(1-2 timer efter indtag)
+Ja
+Ja
+Ja
+ Ja
+Specifik antidot
+Ja
+Nej
+Nej
+Nej
+Hæmodialyse
+Ja
+Nej
+Nej
+Nej
+Protrombin kompleks koncentrat (Octaplex); 25 IE/kg
+En mulighed
+Antidot mod dabigatran: idarucizumab
+Idarucizumab er et monoklonalt antistof, der binder dabigatran med høj affinitet og derved ophæver den antikoagulerende effekt. Behandlingen skal konfereres med trombose- og hæmostasespecialister inden anvendelse.
+Antidoten bør kun anvendes ved behandling af livstruende blødning eller blødning i et kritisk organ eller aflukket rum, hvor overdosering med dabigatran er en sandsynlig årsag til blødningen. Antidoten kan også anvendes til patienter i behandling med dabigatran før akut kirurgi/invasivt indgreb med høj blødningsrisiko, som ikke kan udskydes, herunder forud for trombolyse ved akut iskæmisk apopleksi.
+Indikation for anvendelse af idarucizumab skal vurderes ud fra sidste indtag af dabigatran, dosering, nyrefunktion og evt. biokemisk påvisning af dabigatrans tilstedeværelse. Undtagelser er akutte livstruende situationer, eksempelvis intrakraniel blødning eller rumperet aortaaneurisme, hvor det ikke anbefales at afvente blodprøvesvar. Idarucizumab anvendes som 5 g i.v. i to konsekutive infusioner (2 x 2,5 g/50 ml) over 5-10 minutter.
+Antidot til direkte faktor Xa-hæmmer
+Den specifikke antidot andexanet alfa er indtil videre ikke klinisk tilgængelig i Danmark. Ved alvorlig livstruende eller ukontrollabel blødning hos en patient i faktor Xa-hæmmer behandling kan der overvejes uspecifik reversering af den antikoagulerende effekt med protrombin kompleks koncentrat 25 IE/kg.
+14.7.2 Specifikke forhold ved blødning under VKA-behandling
+Ved mindre blødning overvejes reversering med phytomenadion 1-3 mg p.o. eller i.v.
+Ved alvorlig og livstruende blødning kan reverseres med phytomenadion 1-10 mg p.o. eller i.v. samt protrombin kompleks koncentrat i henhold til INR (vedr. dosering henvises til Tabel 18 i DSTHs PRAB-rapport: "Perioperativ regulering af antitrombotisk behandling"). 
+14.7.3 Specifikke forhold ved blødning under behandling med hepariner
+Ved akut behandlingskrævende blødning under UFH- eller LMH-behandling overvejes muligheden for komplet (UFH) eller delvis (LMH) reversering af den antikoagulerende effekt med protaminsulfat. Protaminsulfat kan ikke reversere effekten af pentasakkarider. 
+Før behandling med protaminsulfat må risikoen for trombose nøje overvejes, og ofte vil en afventende strategi være et værdigt alternativ (grundet heparinernes korte halveringstid). Behandling med protaminsulfat tilrådes konfereret med koagulationsekspert.
+Protaminsulfat 1 mg ophæver virkningen af 140 IE UFH og 100 IE LMH. Protaminsulfat doseres efter administreret mængde UFH/LMH og tid siden sidste administration. Ved reversering af LMH gives 0,5 mg eller 1 mg protaminsulfat pr. 100 IE LMH alt efter om seneste LMH administration er mere eller mindre end 8 timer siden. Grundet den korte halverings- og virkningstid kan der være behov for gentagen administration af protaminsulfat. 
+14.7.4 Genoptagelse af AK-behandling efter blødning
+Genoptagelse af AK-behandling, når blødningen er under kontrol, har høj prioritet. Helt afgørende for tidspunktet er indikationen for AK-behandlingen samt blødningens sværhedsgrad og lokalisation. Sædvanligvis kan AK-behandling (f.eks. LMH i profylaksedosis) påbegyndes i første døgn efter klinisk blødningskontrol, stigende til behandlingsdoser de efterfølgende dage.
+CNS-blødning kræver dog længere interval før genoptagelse af AK-behandling (ofte 4 uger). Det er en specialistopgave.
+Hos patienter med atrieflimren/atrieflagren, der har oplevet alvorlig/livstruende blødning under AK-behandling, og videre AK-behandling findes kontraindiceret, kan aurikellukning overvejes.  
+14.8 Perioperativ regulering af AK-behandling
+Beslutning om pausering eller fortsættelse af behandling (inkl. trombocytfunktionshæmmer) i forbindelse med operationer/indgreb afhænger af patientens tromboemboliske risiko, procedurens blødningsrisiko og typen af den blodfortyndende behandling.
+En del indgreb med lav/moderat blødningsrisiko kan foretages uden pausering af behandlingen. Ved visse indgreb er blødningsrisikoen lav, men konsekvensen af blødning stor (intracerebral kirurgi, øjenkirurgi m.m.).
+Pausens varighed afhænger af nyrefunktionen og blødningsrisikoen forbundet med indgrebet. Der anvendes IKKE bridging (dvs. en periode med overlap af to AK-præparater) med LMH hos patienter i NOAK-behandling. Ved VKA-behandling kan man overveje bridging hos patienter med høj tromboserisiko (CHA2DS2-VASc score >5, nylig VTE <3 mdr., visse mekaniske hjerteklapper, m.m.). 
+De overordnede principper for perioperativ håndtering af hhv. NOAK- og VKA-behandling fremgår af Tabel 14.6 og Tabel 14.7. For en mere detaljeret beskrivelse henvises til Dansk Selskab for Trombose og Hæmostase’s online bridging-applikation, der anvendes til planlægning af bridging/pausering af AK-behandling i relation til operative indgreb. Applikationen omhandler al antitrombotisk medicin. Den kan også downloades som App i App Store og Google Play. Applikationen baseres på PRAB-rapporten ("Perioperativ regulering af antitrombotisk behandling").
+Tabel 14.6: Pauseringsvarighed (målt i dage) for NOAK i henhold til nyrefunktion (eGFR) og blødningsrisiko (lav eller høj) ved det planlagte indgreb.
+Tabellen er gengivet fra rapport om "Perioperativ regulering af antitrombotisk behandling" fra Dansk Selskab for Trombose og hæmostase, dsth.dk
+Tabellen er vejledende, og i beslutningsgrundlaget kan andre faktorer inddrages, herunder kliniske faktorer af betydning for blødningsrisikoen. Eksempler på procedurer med lav/høj blødningsrisiko er angivet i Tabel 14.7.
+*Giv 2,5 mg x 2 dagligt, hvis ≥2 af følgende er opfyldt: P-kreatinin >133 μmol/l, alder >80 år, vægt <60 kg
+  Tabel 14.7: Perioperativ regulering af antikoagulationsbehandling med VKA
+Tabellen er gengivet fra rapport om "Perioperativ regulering af antitrombotisk behandling" fra Dansk Selskab for Trombose og hæmostase, www.dsth.dk
+INR: International Normalized Ratio; VKA: Vitamin K-antagonist; LMH: Lavmolekylært heparin
+For CHA2DS2-VASc scoren, som skal anvendes til vurdering af tromboembolirisikoen, se Kapitel 15: Atrieflimren og atrieflagren.
+Beslutning om perioperativ AK-behandling kan baseres på ovenstående, men bør altid vurderes individuelt på basis af patientkarakteristika og procedurens karakter.
+Akutte indgreb:                                                    
+I akutte livstruende situationer, hvor patientens tilstand ikke tillader pausering af AK-behandlingen efter anbefalingerne angivet i ovenstående tabeller, giver det ingen mening at afvente koagulationstest. I disse tilfælde må man være forberedt på en øget blødningsrisiko ved invasive indgreb. Reversering med idarucizumab (dabigatran) eller protrombin kompleks koncentrat (apixaban, edoxaban, rivaroxaban og VKA) kan evt. anvendes efter konference med koagulationsrådgivning.                 
+14.9 Kombinationsbehandling
+NOAK og VKA må aldrig anvendes samtidigt fraset ved behandlingsskift.
+Patienter må ikke være i behandling med LMH og NOAK samtidigt, heller ikke i forbindelse med bridging eller behandlingsskift.
+Samtidig brug af terapeutisk AK-behandling og trombocythæmmende behandling øger blødningsrisikoen betydeligt. Fraset hos patienter med AK-indikation og nyligt AKS er kombinationsbehandling sjældent indiceret. Flerstofs-antitrombotisk behandling bør derfor altid føre til en overvejelse af, om der reelt er indikation herfor.
+I nedenstående er nævnt overvejelser vedrørende kombinationsbehandling i specifikke patientgrupper:
+Patienter med iskæmisk hjertesygdom og indikation for terapeutisk AK-behandling
+Ved kronisk iskæmisk hjertesygdom gives som hovedregel udelukkende AK-behandling.
+Vedrørende dobbeltterapi (AK-behandling og trombocytfunktionshæmmer) og tripleterapi (AK-behandling og to trombocytfunktionshæmmere) efter AKS eller elektiv PCI, se Kapitel 1: Akut koronart syndrom, Afsnit 1.6.7 og Kapitel 3: Kronisk koronart syndrom, Afsnit 3.6.1.
+Patienter med mekanisk hjerteklap
+Kombination af VKA og acetylsalicylsyre er indiceret hos patienter med emboli på trods af relevant AK-behandling se Kapitel 6: Hjerteklapsygdom, Afsnit 6.8  
+Patienter med tidligere apopleksi og indikation for terapeutisk AK-behandling
+Ved indikation for terapeutisk AK-behandling hos patienter i trombocythæmmende behandling pga. tidligere apopleksi seponeres den trombocythæmmende behandling. Behandling med NOAK foretrækkes frem for VKA hos patienter med atrieflimren og tidligere apopleksi på grund af lavere risiko for blødning, herunder intrakraniel blødning.
+Patienter med kronisk iskæmisk hjertesygdom eller symptomatisk perifer arteriesygdom og høj risiko for iskæmisk komplikation
+Hos patienter med høj iskæmisk risiko og lav blødningsrisiko kan der være indikation for at kombinere ASA med lavdosis AK-behandling i form af rivaroxaban 2,5 mg x 2 dagligt. Se (Se Kapitel 6: Kronisk koronart syndrom og Kapitel 33: Perifer arteriesygdom).
+Ved indikation for terapeutisk AK-behandling gives dette i monoterapi.  
+14.10 AK-behandling i specielle patientgrupper
+Patientspecifikke forhold kan føre til ændret farmakokinetik, øget blødningsrisiko eller andre særlige risici ved AK-behandling, der nødvendiggør en individualiseret behandling i forhold til såvel dosering som præparatvalg. Overordnede anbefalinger relateret til AK-behandling i udvalgte patientgrupper fremgår af Tabel 14.8. Konference med ekspert (fagområdespecialist i Trombose og Hæmostase, nefrolog, hepatolog, farmakolog mv.) kan overvejes.
+AK-behandling af patienter med cancerassocieret trombose omtales grundigt i Kapitel 12: Lungeemboli og dyb venetrombose, Afsnit 12.4. Ved atrieflimren/atrieflagren hos patienter med cancer kan NOAK eller LMH anvendes med samme forbehold som beskrevet i Kapitel 12. I de tilfælde, hvor der vælges LMH til patienter med atrieflimren, anvendes en dosis svarende til ved VTE eller lidt mindre, da patienter med atrieflimren ikke (som VTE-patienter) har manifest trombose, men kun har risiko for trombose. For dalteparin anbefales pragmatisk en dosis på 150 IE/kg ved atrieflimren. 
+AK-behandling af præmenopausale kvinder er associeret med en ikke ubetydelig risiko for kraftige og langvarige menstruationer (menoragi). Rivaroxaban og edoxaban synes at være behæftede med en højere risiko for menoragi end apixaban, dabigatran og warfarin. Risikoen for AK-associeret menoragi kan reduceres ved samtidig hormonel antikonceptiv behandling. Hormonspiral eller minipiller er at foretrække, men P-piller kan accepteres, så længe kvinden er i AK-behandling, også på trods af østrogenassocieret VTE.
+Tabel 14.8: AK-behandling i specifikke patientgrupper
+Patientgruppe
+FXa-hæmmere*
+Dabigatran
+Warfarin
+LMH
+Gravide
+Kontraindiceret
+Kontraindiceret
+Frarådes grundet malformationsrisiko. Kan om nødvendigt anvendes fra 12. til 36. gestationsuge.
+Kan anvendes. Dosis justeres efter prægravid vægt.
+Ammende
+Kontraindiceret
+Kontraindiceret
+Anvendes som vanligt
+Anvendes som vanligt
+Overvægtige
+Kan anvendes.
+Ved BMI ≥40 kg/m2 overvejes måling af P-NOAK mhp. vurdering af effektivitet, alternativt skift til VKA.
+Anvendes som vanligt
+Vægt >120 kg: Enoxaparin eller tinzaparin er førstevalg.
+BMI ≥40 kg/m2: Ved længerevarende behandling overvejes anti-Xa-måling
+Nedsat nyrefunktion**
+Dosisreduceres jf. Tabel 14.3.
+eGFR <15 ml/min: kontraindiceret 
+eGFR 30-50 ml/min: overvej dosisreduktion.
+eGFR <30 ml/min: kontraindiceret 
+Anvendes som vanligt
+Profylaksedoser: som udgangspunkt ingen dosisjustering
+Terapeutisk dosering: se Tabel 14.4 
+Aktiv cancer
+Kan anvendes under hensyntagen til antineoplastisk behandling, nyrefunktion og cancer-type.***
+Rivaroxaban og edoxaban frarådes ved urogenital og gastrointestinal cancer. Apixaban kan anvendes fraset ved intakte luminale tumorer i øvre GI-kanal.
+Frarådes pga. manglende data
+Frarådes (kan om nødvendigt anvendes, fx ved mekaniske klapper)
+Anvendes som vanligt.
+Ved VTE kan dalteparin dosisreduceres efter 1 mdr. fra 200 til 150 IE/kg
+Nedsat leverfunktion****
+Child-Pugh score*****:
+A: Anvendes som vanligt 
+B: Forsigtighed tilrådes. Rivaroxaban kontraindiceret.
+C: Kontraindiceret
+Child-Pugh score*****:
+A: Anvendes som vanligt 
+B: Forsigtighed tilrådes
+C: Kontraindiceret
+Monitorering med INR kan dog være vanskeligt.
+Kan anvendes.
+Ved behov for terapeutisk dosering hos patient med svær leverinsufficiens og betydende koagulationsdefekt rådføres med hepatolog.
+Trombocytopeni (ikke HIT-relateret)
+Trombocyttal >50x109/l: Normal dosering
+Trombocyttal 20-50x109/l: Halver dosis
+Trombocyttal <20x109/l: kontraindiceret
+Trombocyttal <100x109/l: INR lavt i det terapeutiske interval
+Trombocyttal <50x109/l: Frarådes, konferer med hæmostaseekspert
+Profylaksedoser: pauseres/undlades ved trombocytter <50 x109/l
+Terapeutisk dosering******:
+Trombocyttal 30-50x109/l: halver dosis
+Trombocyttal < 30x109/l: kontraindiceret
+*Apixaban, edoxaban og rivaroxaban
+**Ved svært nedsat nyrefunktion (eGFR<15 ml/min, dialyse) overstiger risikoen for blødning på AK-behandling potentielt risikoen for trombose uden AK-behandling. AK- behandling af denne population bør derfor nøje overvejes under vurdering af tromboserisikoen, evt. i samarbejde med nefrolog. 
+***Der henvises til Medicinrådets behandlingsvejleding på området, særligt behandlingsalgoritmen på side 8 samt afsnit 5.6.6. om lægemiddelinteraktioner
+****Blødningstruede øsofagusvaricer behandles forud for opstart af AK-behandling hvis muligt.
+*****Se f.eks. www.pro.medicin.dk - Nedsat leverfunktion
+******Ved nyopståede, alvorlige tromboser anbefales dog terapeutisk LMH-dosering i den første måned trods trombocyttal på 30-50 x 109/l. Ved lavere trombocyttal anbefales optransfusion til trombocyttal >30 x 109/l i kombination med halv dosis LMH.
+Download behandlingsvejledningen som app!
+Download den nu. Kan downloades i Google Play og App Store.

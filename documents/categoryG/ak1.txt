@@ -1,0 +1,266 @@
+
+Forside /
+Behandlingsvejledning /
+Antikoagulationsbehandling
+Indhold
+14. Antikoagulationsbehandling
+Forfattere: Kristian Kragholm , Maja Hellfritzsch Poulsen , Manan Pareek , Morten Würtz og Thomas Steffen Hermann
+Referenter: Erik Lerkevang Grove og Thomas Kümler
+Revideret af DCS’ Trombokardiologi arbejdsgruppe
+Opdateret 12 Maj 2023 00:30●Visninger: 6744
+14.1 Indikationer for AK-behandling
+14.2 Kontraindikationer for AK-behandling
+14.3 Varighed af AK-behandling
+14.4 Peroral AK-behandling
+14.5 Parenteral antikoagulationsbehandling med hepariner, pentasakkarider og direkte trombinhæmmere
+14.6 Skift mellem AK-præparater
+14.7 Blødning under AK-behandling
+14.8 Perioperativ regulering af AK-behandling
+14.9 Kombinationsbehandling
+14.10 AK-behandling i specielle patientgrupper
+Kapitlet er i forbindelse med årets revision ændret på følgende områder:
+NOAK sidestilles med VKA ved behandling af intrakavitære tromber. NOAK kan accepteres som tromboseprofylakse i udvalgte situationer. Anbefalinger vedrørende AK-behandling af trombose i portalvene-gebetet er inkluderet. Specifikationer vedrørende AK-behandling af patienter med aktiv cancer samt
+Dette kapitel omhandler behandling med antikoagulantia (AK-behandling), som beskrives i separate afsnit om non-vitamin K-antagonist orale antikoagulantia (NOAK), vitamin K-antagonister (VKA) og lavmolekylære hepariner (LMH).
+14.1 Indikationer for AK-behandling
+Tabel 14.1: Indikationer for AK-behandling og mulige behandlingsvalg
+Indikation
+NOAK
+VKA
+LMH
+Atrieflimren/-flagren
+(se Kapitel 15: Atrieflimren og atrieflagren)
++
+1. valg
++
++*
+Venøs tromboemboli
+(se Kapitel 12: Lungeemboli og dyb venetrombose)
++
+1. valg
++
++
+Cancer-associeret trombose
+(se Kapitel 12: Lungeemboli og dyb venetrombose, Afsnit 12.4)
++**
+÷
++
+Kronisk tromboembolisk pulmonal hypertension (CTEPH)
+(se Kapitel 13: Pulmonal hypertension)
+(+)
+Begrænset
+erfaring
++
++
+Intrakavitære tromber
+(se Kapitel 25: Kardiel embolikilde, Afsnit 25.5.2)
++
++
++
+Mekaniske hjerteklapper
+(se Kapitel 6: Hjerteklapsygdom)
+÷
++
++
+Moderat eller svær mitralstenose
+(se Kapitel 6: Hjerteklapsygdom)
+÷
++
++
+Antifosfolipid syndrom, især hvis triple positiv
+÷
++
++
+Tromboseprofylakse
+(se Kapitel 12: Lungeemboli og dyb venetrombose)
+(+***)
+÷
++
+Trombose i portalvene-gebetet
+(+)****
++
++
+Grøn: Kan anvendes. Gul: Kan anvendes under visse omstændigheder. Rød: Frarådes.
+*LMH er aldrig undersøgt ved atrieflimren som langtidsforebyggelse af apopleksi og bør derfor kun anvendes, når behandling med andre antikoagulantia ikke er mulig
+**NOAK anses som førstevalg under hensynstagen til cancertype, antineoplastisk behandling og patientkarakteristika herunder blødningsrisiko, (se Kapitel 12: Lungeemboli og dyb venetrombose, afsnit 12.4)
+***NOAK er i Danmark kun godkendt som tromboseprofylakse ved elektiv total hofte- eller knæalloplastik. Kapitlets forfattere og referenter finder det acceptabelt at anvende NOAK (fx rivaroxaban 10 eller 20 mg x 1 dagligt) til patienter med tidligere VTE med behov for kortvarig tromboseprofylakse udenfor hospitalsregi, fx i forbindelse med længere flyrejse.
+****NOAK kan anvendes på lige fod med VKA og LMH hos patienter uden levercirrose eller patienter med kompenseret levercirrose (Child Pugh A). Splanknisk trombose omtales ikke yderligere i dette kapitel. Der henvises til retningslinjen ”Splanknisk trombose, diagnostisk og behandling” udgående fra Dansk Selskab for Gastroenterologi og Hepatologi.
+14.2 Kontraindikationer for AK-behandling
+For præparatspecifikke kontraindikationer henvises til www.pro.medicin.dk. Dog bør nævnes, at NOAK-behandling er kontraindiceret hos patienter med mekaniske hjerteklapper, moderat/svær mitralstenose, triple positiv antifosfolipidsyndrom og svært nedsat nyrefunktion (kreatinin clearance <30 ml/min for dabigatran, kreatinin clearance <15 ml/min for rivaroxaban, apixaban og edoxaban).
+Alvorlig eller livstruende aktiv blødning kontraindicerer AK-behandling. Aktiv blødning under AK-behandling kan kræve pausering og eventuelt reversering af AK-behandlingen, indtil der er opnået blødningskontrol (se Afsnit 14.7 Blødning under AK-behandling). Herefter kan AK-behandlingen hos de fleste patienter genoptages (se Afsnit 14.7.4 Genoptagelse af AK-behandling efter blødning).
+Tidligere alvorlig/livstruende AK-associeret blødning kontraindicerer sjældent AK-behandling, men kræver særlig opmærksomhed, herunder håndtering af risikofaktorer for blødning, se Afsnit 14.7.4 Genoptagelse af AK-behandling efter blødning. Aurikellukning kan overvejes hos udvalgte patienter med atrieflimren/atrieflagren med stærk kontraindikation for AK-behandling under hensyntagen til komplikationsrate samt om patienten forventes at kunne tolerere efterbehandling med trombocythæmmer .   
+Leversvigt er en relativ kontraindikation for AK-behandling og kræver involvering af specialister. Det samme gælder svær trombocytopeni (se Tabel 14.8) og koagulationsforstyrrelser medførende betydeligt øget blødningstendens.
+14.3 Varighed af AK-behandling
+Behandlingsvarigheden afhænger af indikationen for AK-behandling. Ved atrieflimren/atrieflagren er behandlingen som udgangspunkt livslang (se Kapitel 15: Atrieflimren og atrieflagren). En undtagelse er patienter med lav CHA2DS2-VASc-score, der blot antikoaguleres kortvarigt, f.eks. i forbindelse med DC-konvertering (se Kapitel 16: Kardiovertering af atrieflimren/-atrieflagren). I disse situationer skal man være opmærksom på, at patienten formentlig på sigt får indikation for livslang AK-behandling.
+Ved venøs tromboemboli (VTE), inklusiv cancer-associeret trombose, spænder behandlingsvarigheden fra 3-6 måneder til livslang. Behandlingsvarigheden individualiseres på baggrund af risikofaktorer (temporære og permanente), alvorlighed af VTE-eventet og patientrelaterede faktorer, herunder blødningsrisiko (se Kapitel 12: Lungeemboli og dyb venetrombose).
+Mekaniske hjerteklapper indicerer livslang AK-behandling med VKA. Mitralklapssubstitution med biologisk klap samt mitralplastik indicerer 3 måneders AK-behandling, alternativt acetylsalicylsyre (se Kapitel 6: Hjerteklapsygdom).
+Ved intrakavitære tromber gives minimum 3 måneders AK-behandling (se Kapitel 25: Kardiel embolikilde, Afsnit 25.5.2).
+14.4 Peroral AK-behandling
+14.4.1 Overvejelser i forbindelse med valg af peroral AK-behandling
+Ved både atrieflimren og VTE bør NOAK foretrækkes frem for VKA, såfremt der ikke er kontraindikationer, fordi NOAK er en mere praktisk behandling og reducerer risikoen for alvorlige (særligt intrakranielle) blødninger sammenlignet med VKA. Visse patientkarakteristika (svært nedsat nyrefunktion, nedsat leverfunktion samt ekstrem overvægt) og patientpræferencer (lægemiddelpris) kan dog tale for VKA frem for NOAK.   
+De enkelte NOAKs er ikke sammenlignet direkte med hinanden i randomiserede kliniske undersøgelser. I forhold til valget mellem de enkelte NOAK-præparater kan følgende parametre overvejes:
+graden af renal udskillelse (dabigatran > rivaroxaban = edoxaban > apixaban)
+en- eller togangsdosering
+evidensniveau for de enkelte NOAK-præparater i forhold til patientens karakteristika (f.eks. alder, vægt, nyrefunktion, komorbiditet)
+bivirkningsprofil, herunder risikoen for gastrointestinal og urogenital blødning
+14.4.2 Peroral AK-behandling med NOAK
+Der er aktuelt 4 forskellige NOAK til rådighed: dabigatran (direkte trombinhæmmer), og rivaroxaban, apixaban og edoxaban (direkte faktor Xa-hæmmere).
+Farmakologi
+Tabel 14.2: Farmakologi
+  Warfarin
+Dabigatran
+Rivaroxaban
+Apixaban
+Edoxaban
+Tid til max effekt
+3-5 dage
+2 timer
+2-4 timer
+1-4 timer
+1-2 timer
+Halveringstid
+20-60 timer
+12-17 timer
+5-13 timer
+8-15 timer
+10-14 timer
+Elimination
+100% galde
+80% renal
+20% non-renal (fæces)
+35% renal
+65% non-renal (fæces)
+30% renal
+70% non-renal (fæces)
+50% renal
+50% non-renal
+Monitorering
+INR
+Nej
+Nej
+Nej
+Nej
+Antidot*
+Ja
+Ja
+(Ja)
+(Ja)
+(Ja)
+Dosering
+1 x dgl
+2 x dgl
+1 x dgl
+2 x dgl
+1 x dgl
+*Den direkte antidot til Faktor Xa-hæmmerne Andexanet alfa er ikke klinisk tilgængelig i Danmark. Ved behov for akut reversering kan i stedet anvendes protrombin kompleks koncentrat (Octaplex®) 25 IE/kg
+Dosering
+Doseringen af NOAK afhænger af behandlingsindikationen og patientkarakteristika, særligt nyrefunktionen, se Tabel 14.3.
+Tabel 14.3: Dosering
+Indikation
+Dabigatran
+Rivaroxaban
+Apixaban
+Edoxaban
+Forebyggelse af apopleksi og systemisk emboli hos voksne med non-valvulær AF
+(se Kapitel 15: Atrieflimren og atrieflagren)
+150 mg x 2 dagligt
+eller
+110 mg x 2 dagligt*
+20 mg x 1 dagligt
+eller
+15 mg x 1 dagligt**
+5 mg x 2 dagligt
+eller
+2,5 mg x 2 dagligt***
+60 mg x 1 dagligt
+eller
+30 mg x 1 dagligt****
+DC-konvertering af non-valvulær AF >48 timers varighed
+150 mg x 2 dagligt
+eller
+110 mg x 2 dagligt*
+20 mg x 1 dagligt
+eller
+15 mg x 1 dagligt**
+5 mg x 2 dagligt
+eller
+2,5 mg x 2 dagligt***
+60 mg x 1 dagligt
+eller
+30 mg x 1 dagligt****
+Behandling og forebyggelse af dyb venetrombose og lungeemboli
+(se Kapitel 12: Lungeemboli og dyb venetrombose)
+150 mg x 2 dagligt
+eller
+110 mg x 2 dagligt*
+Forudgås af LMH i 5 dage
+Initialt 15 mg x 2 dagligt i 3 uger,
+herefter 20 mg x 1 dagligt (evt. 15 mg x 1 dagligt ved GFR < 50 ml/min)
+Forebyggelse af recidiv: 10 mg x 1 dagligt*****
+Initialt 10 mg x 2 dagligt i 7 dage,
+herefter 5 mg x 2 dagligt (dog 2,5 mg x 2 ved GFR <30 ml/min)
+Forebyggelse af recidiv:  2,5 mg x 2 dagligt*****
+60 mg x 1 dagligt
+eller
+30 mg x 1 dagligt****
+Forudgås af LMH i 5 dage
+Koronararteriesygdom eller symptomatisk perifer arteriesygdom og høj risiko for iskæmiske hændelser
+(Se Kapitel 3: Kronisk koronar syndrom og Kapitel 33: Perifer arteriesygdom)
+Ikke godkendt til indikationen
+2,5 mg x 2 dagligt i kombination med ASA 75 mg x 1 dagligt
+Ikke godkendt til indikationen
+Ikke godkendt til indikationen
+AF = atrieflimren/atrieflagren, ASA=acetylsalicylsyre
+*Alder ≥80 år eller samtidig behandling med verapamil. Ved AF kan dosisreduktion ligeledes overvejes ved høj blødningsrisiko (og lav tromboembolirisiko), eller eGFR 30-50 ml/min.
+**GFR 15-49 ml/min
+***GFR 15-29 ml/min eller 2 af følgende kriterier opfyldt: Alder ≥80 år, legemsvægt ≤60 kg, kreatinin >133 µmol/l
+****1 af følgende kriterier opfyldt: GFR 15-50 ml/min, legemsvægt ≤60 kg, samtidig behandling med P-gp-hæmmere som ciclosporin, dronedaron, erythromycin eller ketoconazol
+*****Dosisreduktion undlades, hvis recidivrisikoen vurderes høj, f.eks. pga. betydende trombofili eller aktiv cancer, samt ved tidligere recidiv under behandling med reduceret dosis.
+Dosering af DOAK ved trombe i venstre ventrikel: som udgangspunkt doseres som ved atrieflimren. Hos udvalgte patienter kan dosering som ved VTE (dvs. indledning med høj dosis) overvejes under nøje hensyntagen til blødningsrisikoen. 
+Kontrol og monitorering af NOAK-behandling
+Der er ikke behov for rutinemæssig biokemisk monitorering af den antikoagulerende effekt af NOAK-behandling. INR har ingen værdi i monitoreringen. Plasmakoncentrationen af NOAK kan måles på de fleste laboratorier og kan primært anvendes til at afgøre, om der er NOAK til stede i blodet eller ej (f.eks. i forgiftningssituationer). Plasmakoncentrationsmåling hos f.eks. under-/overvægtige eller ved mistanke om interaktioner kan overvejes men anbefales ikke rutinemæssigt pga. manglende erfaring. Dosisjustering baseret på plasmakoncentrationsmålinger frarådes.
+Ved påbegyndelse af NOAK-behandling tages følgende biokemiske analyser: hæmoglobin, væsketal med eGFR, trombocytter og levertal. Under NOAK-behandling skal nyrefunktionen kontrolleres efter 3 måneder og herefter efter individuel vurdering afhængig af bl.a. nyrefunktion, komorbiditet og øvrig medicinering, dog mindst 1 gang årligt. Nyrefunktionen bør desuden vurderes ved mistanke om fald heri, f.eks. ved sygdom, der medfører risiko for dehydrering.
+Cirka én gang årligt revurderes indikation og kontraindikationer for AK-behandlingen, herunder eventuelle trombose/blødningskomplikationer. Dette bør inkludere gennemgang af medicinlisten med fokus på blødningsrisiko (f.eks. prednisolon, NSAID m.v.). Vigtigheden af komplians understreges. Blodtryk kontrolleres, og behov for eller justering af antihypertensiv behandling vurderes.
+Interaktioner
+Der er færre farmakokinetiske interaktioner for NOAK sammenlignet med VKA. De vigtigste er beskrevet i Kapitel 35: Farmaka og kardiovaskulære komplikationer, Tabel 35.2.
+Farmakodynamiske interaktioner med lægemidler med antitrombotisk virkning (f.eks. trombocytfunktionshæmmere, NSAID og visse antidepressiva) medførerende øget blødningsrisiko under NOAK-behandling er hyppige og kræver særlig opmærksomhed. For anbefalinger vedrørende kombinationsbehandling med NOAK og trombocytfunktionshæmmere se Kapitel 1: Akut koronart syndrom, Afsnit 1.6.7 og Kapitel 3: Kronisk koronart syndrom, Afsnit 3.6.1.
+Fødeindtagelse øger absorptionen af rivaroxaban i standarddoser (dvs. 15 mg og 20 mg) fra 66% til 90%. Tabletterne skal derfor indtages sammen med mad.
+14.4.3 Peroral AK-behandling med VKA
+Terapeutisk INR-niveau
+Behandlingsintensiteten måles som protrombintid og udtrykkes som INR (International Normalized Ratio). Det terapeutiske interval for INR-niveauet er 2,0-3,0, dog 2,5-3,5 ved mekanisk mitralklap. Kvaliteten af VKA-behandling vurderes på baggrund af tid i terapeutisk interval (TTI). TTI ≥70% vurderes generelt som acceptabelt, omend der tilstræbes så høj TTI som muligt. Ved langvarig VKA-behandling fører selvstyret terapi til højere TTI end behandlerstyret terapi og bør altid overvejes hos patienter med indikation for livslang VKA-behandling. 
+Farmakologiske aspekter
+I Danmark er warfarin og phenprocoumon de to indregistrerede præparater til VKA-behandling. Warfarin foretrækkes generelt pga. bedre dokumentation og kortere halveringstid. Den kortere halveringstid (36 timer versus 168 timer) er en fordel ved indledning af behandling, behandlingspause, blødningskomplikationer og ved interaktion med andre lægemidler. Ved amning anvendes warfarin, alternativt LMH.
+Indledning af VKA-behandling
+Før behandlingsstart:
+vurdér tilstedeværelse af kontraindikationer
+mål hæmoglobin, trombocytter, INR, kreatinin og levertal
+informér patienten grundigt (herunder vigtigheden af høj komplians), tilrettelæg behandlingskontrol, udlevér patientkort og opret INR-skema
+ved aktuel tromboembolisk sygdom uanset type samt med mekanisk hjerteklap indledes behandlingen altid under dække af heparin, oftest LMH i terapeutisk dosis
+Behandlingen indledes med:
+warfarin: Formodet vedligeholdelsesdosis, typisk 5 mg/dag, dog lavere for ældre patienter
+phenprocoumon: Formodet vedligeholdelsesdosis, typisk 3 mg/dag, dog lavere for ældre patienter
+Efter behandlingsstart måles INR på dag 5, dvs. efter 4 doser. Dette kan dog afviges, f.eks. afhængigt af patientens alder, øvrig medicinering og komorbiditet. Næste kontrol samt valg af videre dosering afhænger af det målte INR-niveau jf. Institut for Rationel Farmakoterapi: ”Start af warfarinbehandling”.
+Vedligeholdelsesbehandling
+God og sikker VKA-behandling forudsætter omhyggelig behandlingskontrol, som omfatter:
+vurdering af om TTI er acceptabel
+årlig klinisk patientkontrol, inkl. vurdering af behandlingsindikation, komplians, blodtryk, risikofaktorer, polyfarmaci med interaktionsrisiko, bivirkninger og komplikationer
+Hyppighed af INR-målinger:
+Generelt bør INR kontrolleres tæt ved indledning af behandlingen, indtil man har fundet den korrekte vedligeholdelsesdosis. Herefter kan intervallet mellem INR-målinger øges langsomt. Ved stabil langtidsbehandling kan intervallet mellem INR-målinger øges til maksimalt 4 uger.
+Dosisændring:
+Der er biologisk variation på serielle INR-værdier fra patienter i steady-state VKA-behandling. Derfor kan der være ret store ændringer mellem to på hinanden følgende INR-værdier, og er ændringen <30% (i praksis mindre end 0,5 i INR-værdi), kan dosisændringer udelades, og resultatet af en ny INR-værdi efter ca. 1 uge afventes. Hyppige dosisændringer øger risikoen for, at INR bringes uden for terapeutisk interval. Man kan acceptere enkeltstående INR-værdier over terapeutisk interval op til 4,5.
+Kontrol af behandling:
+Det er vigtigt, at kvaliteten af VKA-behandlingen vurderes og dokumenteres løbende. Hvis TTI vedvarende ligger <70 %, bør der søges forklaring herpå (se f.eks. www.pro.medicin.dk - Vitamin K-antagonister), og skift til NOAK bør overvejes ved fravær af kontraindikationer.
+INR uden for terapeutisk niveau
+Større afvigelser i INR skal altid undersøges (lægemiddelinteraktion, feber, kostomlægning, fejldosering, alkohol, etc.) og evt. konfereres med trombosecenter/AK-klinik. Blødning under AK-behandling behandles i Afsnit 14.7 Blødning under AK-behandling.
+Ved subterapeutisk INR:
+Hos patienter med mekaniske klapper og patienter med nylig tromboemboli, som under VKA-behandling får målt INR <1,8, anbefales tillæg af LMH i terapeutisk dosis, indtil INR igen er i niveau. For mekaniske mitralklapper bør LMH dog påbegyndes allerede ved INR <2,5.
+Høj INR uden blødning:
+4,5< INR <10:
+pausér behandlingen
+reversering med phytomenadion anbefales ikke rutinemæssigt
+daglig INR-måling indtil INR er i niveau, hvorefter behandlingen genoptages
+INR >10 (eller over målbar grænse):
+overvej indlæggelse
+delvis reversering med phytomenadion 2,5-5 mg p.o. eller i.v. anbefales
+Interaktioner
+Et stort antal lægemidler, naturpræparater og kosttilskud øger eller hæmmer virkningen af VKA (se evt. www.pro.medicin.dk, www.interaktionsdatabasen.dk og www.drugs.com).
+Fra starttidspunktet af en ny behandling, der interagerer med VKA, til fuld effekt af interaktionen ses en tidsforskydning, som er afhængig af halveringstiden for de vitamin K-afhængige koagulationsfaktorer. For warfarin ses fuld effekt af interaktionen efter ca. en uge og for phenprocoumon efter 3-4 uger. Effekten af interaktionen kan ligeledes vare ved, efter at behandlingen med det interagerende lægemiddel er ophørt. Hyppige INR-kontroller anbefales ved såvel påbegyndelse og ophør af potentielt interagerende medicin. Se Kapitel 35: Farmaka og kardiovaskulære komplikationer, Afsnit 35.5.3.
